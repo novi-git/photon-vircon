@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0f5982b42a2234ba280286c8bb8bb8, type: 3}
+  m_Name: Default UpperBody
+  m_EditorClassIdentifier: 
+  Type: 5
+  DefaultPrefab: {fileID: 3134826308672931615, guid: 26d84775650863b4ab228d73e60b0ccf,
+    type: 3}
+  PreviewButtonOffset:
+    Offset: {x: 0, y: 0, z: 3.5}
+    Scale: {x: 2000, y: 2000, z: 2000}
+    Rotation: {x: 90, y: 0, z: 0}
+  Assets:
+  - Mesh: {fileID: 7291153071796121339, guid: e002cdbb6393a8a4ea65c73ac3225ede, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 8524630809900167142, guid: e002cdbb6393a8a4ea65c73ac3225ede, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 5217797154860450698, guid: e002cdbb6393a8a4ea65c73ac3225ede, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 633200600835197361, guid: e002cdbb6393a8a4ea65c73ac3225ede, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 3114946973474670153, guid: e002cdbb6393a8a4ea65c73ac3225ede, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 3501121275454902786, guid: c005e998b5645234eb573a180005c8b7, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: -4821792733583410478, guid: c005e998b5645234eb573a180005c8b7, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 1455689089101059437, guid: c005e998b5645234eb573a180005c8b7, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 1455689089101059437, guid: c005e998b5645234eb573a180005c8b7, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}

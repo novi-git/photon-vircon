@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3355836798236761987
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4894381108821532017}
+  - component: {fileID: 7386063874323210401}
+  m_Layer: 0
+  m_Name: CustomizationData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4894381108821532017
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3355836798236761987}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.030043215, y: 0.10794449, z: -0.5874889}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7386063874323210401
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3355836798236761987}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b1237323f0d7c54f8beff5d4723d33d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ArtPacks:
+  - {fileID: 11400000, guid: e38434d3c33fef042a6912ea7d373aff, type: 2}
+  - {fileID: 11400000, guid: 0c05b8d403071a74d9a02ff411d5ffd1, type: 2}
+  - {fileID: 11400000, guid: 4853889e62a56454980a378a728f6c00, type: 2}
+  ArtPackOverride: 
+  Hairstyles:
+  - {fileID: 3134826308672931615, guid: 447ad8d37b06484489501cff7985f0d4, type: 3}
+  - {fileID: 3134826308672931615, guid: 15a47ca0a968e1744a652c7f0a89f57a, type: 3}
+  - {fileID: 3134826308672931615, guid: 736c8805a5c48f44985e6d8a5abaa18c, type: 3}
+  - {fileID: 3134826308672931615, guid: a14137bef6392dc47b2b4837ae5526cc, type: 3}
+  HairstylesLOD:
+  - {fileID: 3134826308672931615, guid: bc4d9df028dec5848b46b5bee7c7e72e, type: 3}
+  - {fileID: 3134826308672931615, guid: bf6e343a0615c5047b2df7092f41f58b, type: 3}
+  - {fileID: 3134826308672931615, guid: a8cc66065faef764cb9c30ef61b9fb83, type: 3}
+  - {fileID: 3134826308672931615, guid: 5cf123bad6a4bcb44ad7a6e48e798300, type: 3}
+  ShirtColor: {r: 0.8666667, g: 0.8666667, b: 0.8666667, a: 1}
+  SkinColor: {r: 0.5377358, g: 0.35202935, b: 0.24603951, a: 1}
+  HairColor: {r: 0, g: 0, b: 0, a: 1}
+  HairstyleIndex: 0
+  Nickname: Name
+  CompanyName: Taktyl Studios

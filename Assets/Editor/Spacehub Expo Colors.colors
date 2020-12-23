@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12323, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: Spacehub Expo Colors
+  m_EditorClassIdentifier: 
+  m_Presets:
+  - m_Name: 
+    m_Color: {r: 1, g: 0.027672876, b: 0, a: 0.5176471}
+  - m_Name: 
+    m_Color: {r: 1, g: 0.8640462, b: 0, a: 0.49019608}
+  - m_Name: 
+    m_Color: {r: 0.5613208, g: 0.90882367, b: 1, a: 0.5176471}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.8113208, b: 0.03747512, a: 0.5176471}
+  - m_Name: 
+    m_Color: {r: 0.54901963, g: 0.8509804, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.28235295, b: 0.54901963, a: 1}
+  - m_Name: 
+    m_Color: {r: 0.074412, g: 0.39717174, b: 0.70199996, a: 1}
+  - m_Name: 
+    m_Color: {r: 1, g: 1, b: 1, a: 1}
+  - m_Name: 
+    m_Color: {r: 0, g: 0.79190725, b: 1, a: 0.5176471}
+  - m_Name: 
+    m_Color: {r: 0.23584908, g: 0.23584908, b: 0.23584908, a: 0.49019608}

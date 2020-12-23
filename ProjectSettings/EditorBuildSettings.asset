@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Funnel.unity
+    guid: 37a15db43ffa8ab40a75250af0f57f34
+  - enabled: 1
+    path: Assets/Scenes/Expo.unity
+    guid: 14d6b9392804b69438e10bb872ae10c3
+  - enabled: 1
+    path: Assets/Scenes/ExpoRoomIsland.unity
+    guid: 849a771ec0cad9b47b0378085eca4738
+  - enabled: 1
+    path: Assets/Scenes/CustomizationRoom.unity
+    guid: 58f3aae1c8276aa4e953ee0d7a35342c
+  - enabled: 1
+    path: Assets/Scenes/ExpoRoomHallway.unity
+    guid: 113a20dd1af9b7742bb16ee8f594851a
+  - enabled: 1
+    path: Assets/Scenes/ExpoRoomBooth.unity
+    guid: 457de005b0f803a4381b3fff61bd93b8
+  - enabled: 1
+    path: Assets/Scenes/ExpoRoomInternalBooth.unity
+    guid: 3ef6e071ad2bc1e479f0fda0694c235c
+  - enabled: 1
+    path: Assets/Scenes/Hall4_Labyrinth.unity
+    guid: a60b11d3ee37c26498c22a59a06a5b13
+  - enabled: 1
+    path: Assets/Scenes/Hall3_TeamBuilding.unity
+    guid: c9f101e6d89375047bb12af7e4988aeb
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 63966c0f76d740a44affcdd183b59235,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: d79420f1f84a6c044bfdf492cee0aba7,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 7947d6b69d873c04e9456d57aff05ad6,
+      type: 2}

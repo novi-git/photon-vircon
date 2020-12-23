@@ -1,0 +1,4227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>d999a025fb128cd4e86f53c38c384ad8</guid>
+    <fileName>Assets/Plugins/SimpleJSON.cs</fileName>
+    <timeStamp>2020-09-17T11:07:27.040268+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.SimpleJSON.JSONNodeType</string>
+      <string>SpaceHub.SimpleJSON.JSONNode</string>
+      <string>SpaceHub.SimpleJSON.JSONArray</string>
+      <string>SpaceHub.SimpleJSON.JSONObject</string>
+      <string>SpaceHub.SimpleJSON.JSONString</string>
+      <string>SpaceHub.SimpleJSON.JSONNumber</string>
+      <string>SpaceHub.SimpleJSON.JSONBool</string>
+      <string>SpaceHub.SimpleJSON.JSONNull</string>
+      <string>SpaceHub.SimpleJSON.JSONLazyCreator</string>
+      <string>SpaceHub.SimpleJSON.JSON</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5fea29bb7c508c244a1f805a5fd3fc4d</guid>
+    <fileName>Assets/Plugins/QuickOutline/Scripts/Outline.cs</fileName>
+    <timeStamp>2020-10-29T15:48:02.6228187+08:00</timeStamp>
+    <typeFullName>
+      <string>Outline</string>
+      <string>Outline+Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2bcf0f7b51e1f174b8663ea33b2b19c0</guid>
+    <fileName>Assets/ScoreManager.cs</fileName>
+    <timeStamp>2020-12-11T17:36:07.1255956+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.TeamColor</string>
+      <string>SpaceHub.Conference.TeamBuildingColor</string>
+      <string>SpaceHub.Conference.ScoreManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3625e5d1fb02c2d4ea706cb6875f1567</guid>
+    <fileName>Assets/SlideButton.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.3106351+08:00</timeStamp>
+    <typeFullName>
+      <string>SlideButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>65805c390db555a429ff4db9ccd68b9b</guid>
+    <fileName>Assets/TimerManager.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.7184588+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.TimerManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d233c76370ddaa849ba6ecaa81e79bb6</guid>
+    <fileName>Assets/Avatars/Artpacks/Anime/AvatarVisualsAnime.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7722457+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarVisualsAnime</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c140aa1bd71c01f43ba5dd17063623bc</guid>
+    <fileName>Assets/Avatars/Artpacks/Default/AvatarVisualsDefault.cs</fileName>
+    <timeStamp>2020-10-02T13:47:12.5266788+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarVisualsDefault</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>86569d77391242c44834d5e07b9699f0</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/AutoRotate.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.AutoRotate</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>10fa3ce0e1c037e449490a4f9ca3bf99</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/DemoInfo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.DemoInfo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0bfe4eaf264074b43a6224bab247c269</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/FrameExtract.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.FrameExtract</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>93547b0c2f9bffb4ab4c1db3799432c1</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Mapping3D.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.Mapping3D</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7bfb0f751af2e454ba0aa66541bef1cf</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/SampleApp_Multiple.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.SampleApp_Multiple</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f87a8f5cee90ffd448fbb0291362860d</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/SimpleController.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.SimpleController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d7efb037b8363242b73fe9664adb7f8</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/SphereDemo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.SphereDemo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bdb8b60922708534498e2539232f026c</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/VCR.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.VCR</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>55f3edfea2233864b9c1bccbb2d187cd</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/ChangeAudioTrack.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.ChangeAudioTrack</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>807113f6900c72340bd371633fe73010</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/ChangeStereoMode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.ChangeStereoMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b6f8b383d2c451d44bbf74bca375f1f1</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/ChangeVideoExample.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.ChangeVideoExample</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dba2352ea33e9434792826c1a07e323a</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/LoadFromBuffer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.LoadFromBuffer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>21bf5c9ec2dc6dd4e94ac5c697f87d11</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/LoadFromBufferInChunks.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.LoadFromBufferInChunks</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ca06add1dfe7e5d4b96cc44874168d80</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/NativeMediaOpen.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.NativeMediaOpen</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>167608c5b0b2ec644853b23d9185fedc</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/PlaybackSync.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.PlaybackSync</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ad202235625f9f489f392aa40be5513</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/StartEndPoint.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.StartEndPoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd61ad6ed525a7243896df42a93c2a98</guid>
+    <fileName>Assets/AVProVideo/Demos/Scripts/Scriptlets/VideoTrigger.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Demos.VideoTrigger</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d2feedce2e2e63647b8f875ec0894a15</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/ApplyToMaterial.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.690466+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.ApplyToMaterial</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6d1977a52888584496b1acc7e998011</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/ApplyToMesh.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.ApplyToMesh</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>383a68f1e3e94be4b84df59dd26074db</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/AudioChannelMixer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.AudioChannelMixer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3b05a64a5de3f8546bf586f42e37b979</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/AudioOutput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.6924592+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.AudioOutput</string>
+      <string>RenderHeads.Media.AVProVideo.AudioOutput+AudioOutputMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>683e7713922f8044c81bf497a0b5887e</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/CubemapCube.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.CubemapCube</string>
+      <string>RenderHeads.Media.AVProVideo.CubemapCube+Layout</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7954bb33da8af354bbe3cdece033bfdc</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/DebugOverlay.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.DebugOverlay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6265373c6a2e0b24f8cd817d3bb88b51</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/DisplayBackground.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.DisplayBackground</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>75f3b319d2d69934d8bf545ab45c918d</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/DisplayIMGUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.DisplayIMGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0f17cdc186456a4469a139a104d2ca72</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/DisplayUGUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.6944537+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.DisplayUGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>638c870cac4da414fba921606d504407</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/MediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.6954518+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+Setup</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+FileLocation</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+PlatformOptions</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsWindows</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsApple</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsMacOSX</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsIOS</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsTVOS</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsAndroid</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsWindowsPhone</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsWindowsUWP</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsWebGL</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+OptionsPS4</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayer+ProcessExtractedFrame</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9ea31f33222f4b418e4e051a8a5ed24</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/PlaylistMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.MediaPlaylist</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlaylist+MediaItem</string>
+      <string>RenderHeads.Media.AVProVideo.PlaylistMediaPlayer</string>
+      <string>RenderHeads.Media.AVProVideo.PlaylistMediaPlayer+Transition</string>
+      <string>RenderHeads.Media.AVProVideo.PlaylistMediaPlayer+PlaylistLoopMode</string>
+      <string>RenderHeads.Media.AVProVideo.PlaylistMediaPlayer+StartMode</string>
+      <string>RenderHeads.Media.AVProVideo.PlaylistMediaPlayer+ProgressMode</string>
+      <string>RenderHeads.Media.AVProVideo.PlaylistMediaPlayer+Easing</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a25ab4952e3b924c8d193758f43e236</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/StreamParser.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.696475+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.StreamParserEvent</string>
+      <string>RenderHeads.Media.AVProVideo.StreamParserEvent+EventType</string>
+      <string>RenderHeads.Media.AVProVideo.StreamParser</string>
+      <string>RenderHeads.Media.AVProVideo.StreamParser+StreamType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2d4bbe43657314a49a5f730e66dafebd</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/SubtitlesUGUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.SubtitlesUGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4ed685e8c5f1f584aa28b32dcf9bdab1</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/UpdateStereoMaterial.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7034531+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.UpdateStereoMaterial</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>706300e4503130449aa3a10d0b54516d</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/NGUI/ApplyToTextureWidgetNGUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3cff8309e08b7e844a0d84f74b6dc6ad</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Actions/AVProVideoControl.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62092c03003fbff4ab67d7eeef490d23</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Actions/AVProVideoDisplayUGUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ad557c974d443cc44a6839862e394f55</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Actions/AVProVideoEvent.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92b2a1405a335834c8c9b198fb66b9a3</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Actions/AVProVideoInfo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.700461+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>22ab3ed79468e454fb4d81f6d449b193</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Actions/AVProVideoPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26061aaf4d9de48eabaacb0e6f46de11</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Actions/Internal/AVProVideoActionBase.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e6c8e0ab6139dc34093af8219078a671</guid>
+    <fileName>Assets/AVProVideo/Scripts/Components/Support/PlayMaker/Editor/AVProVideoActionHeaderPropertyDrawer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7024558+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d1f5ee5364d45d14aa2c1bfad9d9ba60</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/ApplyToMaterialEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7034531+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Editor.ApplyToMaterialEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>114ac842bfcaf0745a5e45cb2a7d6559</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/ApplyToMeshEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7852924144fc064aad785e5985b5402</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/AudioOutputEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7044527+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Editor.AudioOutputEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0e20933bfdb909544b98bc0de2926c4c</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/DisplayUGUIEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7054459+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Editor.DisplayUGUIEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8fdcfef6a9f4f724486d3374e03f4864</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/MediaPlayerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7064414+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Editor.MediaPlayerEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9328411ef862884f97a993c4daa9b68</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/PlaylistMediaPlayerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1e59c97bf0125284dab6c83833518fcf</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/PostProcessBuild.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7074194+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7d92cb5b84798a44b49bb610befa0cf</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/SupportWindow.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7074194+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Editor.SupportWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>845a007e07f3a2e4b86326374fa992df</guid>
+    <fileName>Assets/AVProVideo/Scripts/Editor/UpdateStereoMaterialEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7084167+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Editor.UpdateStereoMaterialEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>80eb525dd677aa440823910b09b23ae0</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/AndroidMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>714026a371bd2d64c86edb3dab5607d9</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/AudioOutputManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7094141+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.AudioOutputManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f59504ca098e7d41b036917f4764ee0</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/BaseMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7104124+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.BaseMediaPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a9879a5f11eabdf4fac86f6632482b72</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/HLSStream.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7104124+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.HLSStream</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00407cbf3ca503142903894431082ac6</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/Interfaces.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7114089+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayerEvent</string>
+      <string>RenderHeads.Media.AVProVideo.MediaPlayerEvent+EventType</string>
+      <string>RenderHeads.Media.AVProVideo.IMediaPlayer</string>
+      <string>RenderHeads.Media.AVProVideo.IMediaSubtitles</string>
+      <string>RenderHeads.Media.AVProVideo.IMediaControl</string>
+      <string>RenderHeads.Media.AVProVideo.IMediaInfo</string>
+      <string>RenderHeads.Media.AVProVideo.IMediaProducer</string>
+      <string>RenderHeads.Media.AVProVideo.Platform</string>
+      <string>RenderHeads.Media.AVProVideo.StereoPacking</string>
+      <string>RenderHeads.Media.AVProVideo.StereoEye</string>
+      <string>RenderHeads.Media.AVProVideo.AlphaPacking</string>
+      <string>RenderHeads.Media.AVProVideo.ErrorCode</string>
+      <string>RenderHeads.Media.AVProVideo.Orientation</string>
+      <string>RenderHeads.Media.AVProVideo.VideoMapping</string>
+      <string>RenderHeads.Media.AVProVideo.FileFormat</string>
+      <string>RenderHeads.Media.AVProVideo.Windows</string>
+      <string>RenderHeads.Media.AVProVideo.Windows+VideoApi</string>
+      <string>RenderHeads.Media.AVProVideo.Android</string>
+      <string>RenderHeads.Media.AVProVideo.Android+VideoApi</string>
+      <string>RenderHeads.Media.AVProVideo.WebGL</string>
+      <string>RenderHeads.Media.AVProVideo.WebGL+ExternalLibrary</string>
+      <string>RenderHeads.Media.AVProVideo.Audio360ChannelMode</string>
+      <string>RenderHeads.Media.AVProVideo.TimeRange</string>
+      <string>RenderHeads.Media.AVProVideo.Subtitle</string>
+      <string>RenderHeads.Media.AVProVideo.Helper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>478671181ab1c9b42be924da77d7fcbe</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/NullMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7114089+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.NullMediaPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c9ce5c323422b4989a79a9c9fc9b67c1</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/OSXMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ac8dc09faa6b1d48bf6f490c9888550</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/Resampler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7134032+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Resampler</string>
+      <string>RenderHeads.Media.AVProVideo.Resampler+ResampleMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>48133a6996376df4a924eeb8d53bce27</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/Stream.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7144012+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.Stream</string>
+      <string>RenderHeads.Media.AVProVideo.Stream+Chunk</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c044ff13d5570e64a8156bc718b3cfec</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/WebGLMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7144012+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.WebGLMediaPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f3c954eb61392a4193295a8376bd8db</guid>
+    <fileName>Assets/AVProVideo/Scripts/Internal/WindowsMediaPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.7154001+08:00</timeStamp>
+    <typeFullName>
+      <string>RenderHeads.Media.AVProVideo.WindowsMediaPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-10T02:51:26+08:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>003d41efefb80b042853a057ec841427</guid>
+    <fileName>Assets/Editor/ConferenceBuildProcessor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8041803+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceBuildProcessor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f0357aad61c840e44ba0bddc98518703</guid>
+    <fileName>Assets/Editor/ConferenceInteractableEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8041803+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceInteractableEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b070cf71d470d5043b96ba623e14ba2d</guid>
+    <fileName>Assets/Editor/ConferenceServerSettingsEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8041803+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceServerSettingsEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a89c160e336c9f5458eb3dc0a0360c89</guid>
+    <fileName>Assets/Editor/ViewModeManagerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8051775+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ViewModeManagerEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6074aec268d4d3143a7cc4728e58587b</guid>
+    <fileName>Assets/Materials/Video/VideoManager.cs</fileName>
+    <timeStamp>2020-12-23T09:19:16.8165734+08:00</timeStamp>
+    <typeFullName>
+      <string>VideoManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>178d8366aa1616849b91b66285c51454</guid>
+    <fileName>Assets/NavMeshComponents/Editor/NavMeshAssetManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8530582+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77fba670b979046f18d52d751e0d4659</guid>
+    <fileName>Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8530582+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ece1e865d1ad84587872fe8580ab5a20</guid>
+    <fileName>Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8540554+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6fa04b4743e3947eba4d7b9e5832ea69</guid>
+    <fileName>Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8540554+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c0f3bef2a67ae4e139538afec3e59b03</guid>
+    <fileName>Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8550252+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c32167dbf3314852b6006a288eb449b</guid>
+    <fileName>Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8550252+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6eeb5dc026fdf4b488bc7ae0138ab719</guid>
+    <fileName>Assets/NavMeshComponents/Scripts/NavMeshLink.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8570214+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1e3fdca004f2d45fe8abbed571a8abd5</guid>
+    <fileName>Assets/NavMeshComponents/Scripts/NavMeshModifier.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8570214+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35e95dc5ff2b64380880dd7ac5922847</guid>
+    <fileName>Assets/NavMeshComponents/Scripts/NavMeshModifierVolume.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8570214+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7a5ac11cc976e418e8d13136b07e1f52</guid>
+    <fileName>Assets/NavMeshComponents/Scripts/NavMeshSurface.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8580171+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7abc9c64bfa2e3344b8bc133c42b3da0</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/DialogHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>DialogHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e9041e4ee72e564bb56fa874188b67b</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/Settings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8640308+08:00</timeStamp>
+    <typeFullName>
+      <string>ResolutionDialogStyle</string>
+      <string>Settings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>89cff907e47f4d24f8f40573db785f01</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/Controller/ButtonHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>ButtonHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49bd7edf1a3280848bdc998354bbd146</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/Controller/CreateEventSystemIfNoneExists.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>CreateEventSystemIfNoneExists</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6237689ae8f19734698a8f9d45192905</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/Controller/FpsLabel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>FpsLabel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>284cae832664c984fbc5034045093061</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/Controller/GraphicSettingsHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>GraphicSettingsHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b55cc30fc7913374c854fa34b5b88e41</guid>
+    <fileName>Assets/NewResolutionDialog/Scripts/Controller/PopupHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName>
+      <string>PopupHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5d2f314019a716747b07723fa69c6d62</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/CreateUtils.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8829755+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65fa414a7a655444a93af2cdf90d6619</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Debugger/XRInputDevicesTreeView.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8839727+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>25a26e0148dbbcf48a0984c7e5440757</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Debugger/XRInteractablesTreeView.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8849459+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>53406d2e5aa831d43b2357a4c6506d5c</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Debugger/XRInteractionDebuggerWindow.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8849459+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>962a0f794a2ada1478dcbb451b503494</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Debugger/XRInteractorsTreeView.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8869402+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8bb15e04704aa024db3215e296936391</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/XRRigEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8919453+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>61683641574db9640b6a4ded99bef4ec</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Controllers/XRControllerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8879373+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>138875d59cb1a124692b9d1c51e2331a</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Controllers/XRControllerRecorderEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8879373+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f79acec7010741a43bc21e4c863523e1</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Controllers/XRControllerRecordingEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8889347+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d71a796752a4ea44983f5984d6362859</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Interactables/XRGrabInteractableEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8899511+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e84a10bafdb61904da21d331233fa882</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Interactors/XRDirectInteractorEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8909484+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2e45772dafdd3554083d8d64e6e5ff2a</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Interactors/XRRayInteractorEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8919453+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84bf12326e98a2e4f917fd37d32f98ae</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Interactors/XRSocketInteractorEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8919453+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a5986b3c83ef5940b4da381fb658dfa</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Interaction/Interactors/Helpers/XRInteractorLineVisualEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8909484+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0dc5424982cf1b46b143bcd4557ad7a</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Editor/Locomotion/SnapTurn/SnapTurnProviderEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.8929425+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>06a4a1c1e2d7e994aaabd0988f2bde3b</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AssemblyInfo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77a8101319fe2554197b94793d7fe034</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/DragGesture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7efb9d73f016ed419a878ca69a7a31b</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/DragGestureRecognizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02a0896e0bba6904a963a7ffcf5fb669</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/Gesture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95ab0ed2c241ff240b794bcb8fbe29c6</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/GestureRecognizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>58bcfaceb55378d45b68c5e3679647a4</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/GestureTouchesUtility.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6889b65c9ccc2184cbf2d5f219e382de</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/PinchGesture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ee49757720fac0e4d8a0b3f550c79ac4</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/PinchGestureRecognizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a5f2ac7498ea29b43826bbbe3c7ca974</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/TapGesture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e56bac50d07de7942834efdd3bf9a0b2</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/TapGestureRecognizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e36be1510fd51b6469693b9270d4c15b</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/TwistGesture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3dfa6d36a4bff724482fbe878dd9fcb2</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/TwistGestureRecognizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>acfcda0cc18bb7b4189becf640ed0889</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/TwoFingerDragGesture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dbf96e18aea359a4a9ca59f85ab82921</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Gestures/TwoFingerDragGestureRecognizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26064d985af342a4dbf9d326aee29db7</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARAnnotationInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dffa6c4da0fb21f43bf43d20e2aa930f</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARBaseGestureInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b62296888f3208140a0d37a62d386f36</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARPlacementInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79c457c151b8f224baf3c314af8503b2</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARRotationInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c2dad05bffa5c5459ac93728a5ad8fc</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARScaleInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d5381e59f719fe3488d57bf99c7ef736</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARSelectionInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>89f9d36db132ec648a8c6940373ce790</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/ARTranslationInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4702cdcb4cd14b84d98a8c15d5def8d3</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactables/GestureTransformationUtility.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c162703e7097614aa1883101e6d8f74</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/AR/Interactors/ARGestureInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>805a4e162d67bb1459cec3a9b132bf7b</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/XRInteractionManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9155001+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ecdaf0d02af39e14182a10bd5b20570c</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/XRInteractionUpdateOrder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>68572169899989742b49f3b76f9e246a</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Controllers/XRController.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9075162+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f1c9387c41e0be14b9de34855939a5b3</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Controllers/XRControllerRecorder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6cd8a377cd5fe0943a516c4de844c076</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Controllers/XRControllerRecording.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb94827a7c19cac468e467992d80573f</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactables/XRBaseInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5cc50953f87a4046b3ed339fa8edb67</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactables/XRGrabInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7d5c470eba2eec7499305196c7070d72</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactables/XRSimpleInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dab77bba39d9c6344bf7045bcb4dcd98</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactables/Helpers/XRTintInteractableVisual.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>028622ffb73135948b2bb161990667b3</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/XRBaseControllerInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d796cfadef7c09742847290655e9a651</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/XRBaseInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>61cfb4d2533fba14c8549a346c7c1484</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/XRDirectInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3aff49575c0a5cd46bbeb9a1b33c3087</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/XRRayInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9144977+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>26721649e21ffb743872d469d70108b5</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/XRSocketInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12b304e9077a38c4c819e7623dd37c27</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/Helpers/IXRCustomReticleProvider.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>031d77d64379203479df7be892d3e0d4</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/Helpers/XRInteractorLineVisual.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9125037+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f6efcace273c0d74eb9037e0ae9bd962</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Interaction/Interactors/Helpers/XRInteractorReticleVisual.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5fef2b215fdcf6e46872ee2f1ca6da90</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/LocomotionProvider.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65e26018d2457e949ad78c75f5314b59</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/LocomotionSystem.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9174839+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a541c7dbc607ff4287ac04750531d26</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/SnapTurn/SnapTurnProvider.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9174839+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>668cc8c4e181c6c4fa35560e3bca6a1c</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/Teleportation/BaseTeleportationInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6d487447b37a3e34e827b15a6716c0bc</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/Teleportation/TeleportationAnchor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1df6541edbb126845892946bb9e63a3b</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/Teleportation/TeleportationArea.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9204591+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36a7ee928abb600488e738edc31346a2</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/Locomotion/Teleportation/TeleportationProvider.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9204591+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7b81ec5b47192de47b3e8c13fe21571f</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/JoystickModel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c824214737dbc3448aa27ad82e27f7d0</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/MouseModel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bca93f5801750fb4c8d2af7a680bb3d4</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/TouchModel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1c934fe89cb50204bb09814a2897b8ce</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/TrackedDeviceEventData.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb6198eb4ce555542a0bf54e67947b0e</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/TrackedDeviceGraphicRaycaster.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9234795+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8c5fa07c65d550741afb563b6727c7d7</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/TrackedDeviceModel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c2fe2c2d41900e6489493df82b3ff5b1</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/UIInputModule.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c671b2ca87560ba45a756c46d052ab27</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/UI/XRUIInputModule.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.9244759+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eb2b5630f085080448d4e2e3b61c1985</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/XR/GizmoHelpers.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d06e1d6011b97c14c86d263d7cb3bcf4</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/XR/InputHelpers.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b9b78fb2b9c7224409ae3a7b8e79673b</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/XR/SortingHelpers.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97d200fc750253041b4b4dd5686a0bb5</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Runtime/XR/XRRig.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25.92744+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>67e745f3985947c4687b3f915f0034ff</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/ARTests.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a726ee7ca2af7840888b3c089906599</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/DirectInteractorTests.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f2ec7499eafe304c85b5d050f2ff83c</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/InteractionManagerTest.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cdff6e4f80370a2449a772afd6589289</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/LocomotionTests.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16e47b24cf7461442a011ac9e0562fe4</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/RayInteractorTests.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7904cb91af186a44aa02aa5ad6f22366</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/SocketInteractorTests.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>284ce691a597b594aa409d994db3d78a</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/TestUtilities.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae61df3032ab330468831422b10e3608</guid>
+    <fileName>Assets/Packages/com.unity.xr.interaction.toolkit@0.9.4-preview/Tests/Runtime/XRControllerTests.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c1aa0fceaa2bc14eabdf85976f4e2c8</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChannelCreationOptions.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb508ffb7b7b0f47882f0087a668283</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChannelWellKnownProperties.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>87776a9b1f405644abcc38ecd70c37fb</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatAppSettings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35b2a4878e5e99e438c97fbe8dbbd863</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatChannel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>692e391fa2a297c45b3d530aa85be610</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatClient.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b90b85043f1857f43b94fd00edfc1ef1</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatDisconnectCause.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>188e4a680bce12d4cbad8d57a24f7d44</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatEventCode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c90a2a73f3ce648409739c724d3e6cef</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatOperationCode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d7a17b60c85fb30448492e397c58c7ce</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatParameterCode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f712805dec728943a668b3bf19dc422</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatPeer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8f482d8c4fe7ade4cbb08eb4a2d83b39</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatState.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7db67e7f5face2e42b6daafcaf4e6c82</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/ChatUserStatus.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bab7c8053b486e34aa0d4ca99dcbec80</guid>
+    <fileName>Assets/Photon/PhotonChat/Code/IChatClientListener.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ac953d6a57a9ea94e96ec689598995d5</guid>
+    <fileName>Assets/Photon/PhotonLibs/WebSocket/SocketWebTcp.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b1bad04f7805f764dba77f0d4518e0f0</guid>
+    <fileName>Assets/Photon/PhotonLibs/WebSocket/WebSocket.cs</fileName>
+    <timeStamp>2020-09-17T11:07:25+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>272beb7315eb9fc4daecafe2ff373baf</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/AppSettings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f0b3ce6748186d3468e0dbaecb38b04c</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/ConnectionHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0144358+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3c0464991e33a70498abdd85c150cc59</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Extensions.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>94ba1138c322ea04c8c37cfbcf87f468</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/FriendInfo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4e65968c7102bf42a77b6a5cade8743</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/LoadBalancingClient.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35c989013c977244186e524a4c90dcee</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/LoadbalancingPeer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5a2f6055139b44142954461627d344bc</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/PhotonPing.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d93148764d7961d4a8b8112bd166cf35</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/PhotonPingClasses.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e3e4b5bebc687044b9c6c2803c36be3d</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Player.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bddf4f4bde2f8dd46927411229ce1302</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Region.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>207807222df026f40ac3688a3a051e38</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/RegionHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>17568a7a5552c09428dd48e73548b8b8</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/Room.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>71760b65ad7d5b842942c797a0366fa7</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/RoomInfo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9b61c60d38639484ebbd7f2100dd3d08</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/SupportLogger.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>294b0a24f6c841f48acf4bf696a4d764</guid>
+    <fileName>Assets/Photon/PhotonRealtime/Code/WebRpc.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae6bdefe0d01f8741bb6558cd1fd9142</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/ILoggable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d5f2e4792d8cf0344bc658a7fe562eb4</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/NativeAndroidMicrophoneSettings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91175dcc15224463780e01a8a98b1b60</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Recorder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.04552+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ce49702397a11ee4db63a71d56646ed4</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/RemoteVoiceLink.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dd7fea91fe63f4e1b884ef1e16a975c3</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Speaker.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0465168+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>96d5757a1c6c7b7419c431119f905d94</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/VoiceComponent.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>697c1cda529a1419782f2a2e3afe37a2</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/VoiceConnection.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a86f533fd9917dd4da8601e9eb542c96</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/VoiceLogger.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7ddec46cf6a4c4addbf21b6be8442124</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/WebRtcAudioDsp.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0545138+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2bdbb446eb039941ac3d9f865cd893f</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Editor/ExitPlayModeOnScriptCompile.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0405558+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4e837e30d97d9fd4a984a83cc6db75a7</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Editor/PhotonVoiceEditorUtils.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0405558+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ded9902b49048f04d8d9788d6a740eb7</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Editor/RecorderEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.041553+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>10964642c52ad634da4de24866140e2d</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Editor/SpeakerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.041553+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9496980b6639f4cb68abaed8fdda658e</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Editor/VoiceConnectionEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0425509+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>82948294db79e4c318c9b8815781f0d3</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/Editor/WebRtcAudioDspEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0425509+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65b99afb3758e9e4689c28a18224eb8f</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/ConnectAndJoin.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>28c5a759338295941af2080959c92312</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/PhotonVoiceLagSimulationGui.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d7b4b6b64f1b474d802f50cb9c720a2</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/PhotonVoiceStatsGui.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>164ef2a94699d485abc9c2530d65736f</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/TestTone.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>814145524f648a04fa42d1ac5cbfb885</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/Editor/ConnectAndJoinEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26.0485121+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a3986deb98168394684c41606a9495af</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/MicAmplifier/MicAmplifier.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2ca8fce417a134e4eb5444c7a9d071bb</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/MicAmplifier/MicAmplifierEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>54f7c01cbf9e64e42bde37b5a0bee411</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/MicAmplifier/MicAmplifierFloat.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fa8d3b254d2d2e6488f58f4d71ee2363</guid>
+    <fileName>Assets/Photon/PhotonVoice/Code/UtilityScripts/MicAmplifier/MicAmplifierShort.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab0c658ad9190f54f8fd20e9ef3acd56</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/LoadBalancingTransport.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3da79bc7318460e45a532a074bd776cc</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/LoadBalancingTransport2.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a7b562e0f0770a8498e3e1e07993ddbe</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/PhotonTransport.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>452a47d43fb9a2541ac591325fbf50a6</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/AudioGen.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>eced827a23d11be4684625f493c862aa</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/AudioInEnumerator.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e144988938e55264f8209b1abf6f3ad9</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/AudioSyncBuffer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4ec039454ee9b646ade0abcee9623b2</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/AudioUtil.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b8fa5acbebe1ba540b8ba97675ff15be</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/ObjectFactory.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84a99b47c1b2fba4a8a268215e5adef1</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/ObjectPool.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>be5011148df058f45957478c38d4a847</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/OpusCodec.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9516187db373c5147a69fc975b62bfc0</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/RawCodec.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b9318da328735db4c94813dcec17ada1</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/Util.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b871d5079e00c7441bb1e52d42d0b60c</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/Voice.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>910c3d1cbb2b8af4aa76983c5c935878</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/VoiceAudio.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b957d86707d108044af9c76171188f87</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/VoiceClient.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7ebdb2c4bb62b814ab3d75f168ecf94e</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/VoiceCodec.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ef70ab0e29cc1544896039f593d5a667</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/VoiceFramed.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8466257066e89eb4d9fd374d4c77e405</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/VoiceInfo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>91cde8da49ff1cc4cabfa7be9d821414</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/VoiceSourceAdapter.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>41e3ccdd78fce694686c717a662f424c</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/WebRTCAudioProcessor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>111ab6962d87d294394acc522d2570a3</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/OpusDecoder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>487631ffee9000c42b81291343b86446</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/OpusEncoder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6a76e6ebcab0b9344837c3cbd4124687</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/OpusException.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f928aa994e3035c4089dd9f8e839a0a1</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/OpusWrapper.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c527233af8a7c54fab631659436832c</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/Bandwidth.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4866c479545570d41abaff5f6a604676</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/Channels.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5eb43bf1b9e449b438cbea885607ad3e</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/Complexity.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f7fa617b20b39d3488d2d9fbc1abae43</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/Delay.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>41001579e394e2d4ea08c136c82de9f7</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/ForceChannels.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0875bbb79a90bc1448ebc2142d1699bd</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/OpusApplicationType.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb806501c083df349acf30e98483b1b6</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/OpusCtlGetRequest.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2685c657fd2eeb04caf2917098b69215</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/OpusCtlSetRequest.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>baf95840af423aa4d8afbbf5ccb17f1f</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/OpusStatusCode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ecca42cdd5ba70a44b9eada7e82d172a</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/SamplingRate.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>740a25c5418bd1b449fc254e53be34b7</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Core/POpusCodec/Enums/SignalHint.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a173aa7f3a7bbc94aa78a6747d55f3f6</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Apple/iOSAudioInPusher.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7c99541283e96384ea52e265269b1dee</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Apple/iOSAudioInReader.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>76e6623773113024186d4ccda649c0a7</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Apple/iOSAudioSession.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b0e2dc3e0f865a747b515b1a0450cc12</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Apple/MacOSAudioInPusher.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7f22e06cf781af34abf9e24bf6010fce</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Apple/MacOSAudioInReader.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>634203506e5489f44a94fb127aca71bb</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/AudioClipWrapper.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d8a5b2f1284e0e49b5df5c6300295d0</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/AudioOutCapture.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64814f7cb6abfbf40b6d4db1fa05642e</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/Common.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9f5b20bead46c9648950011fa43a2c04</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/IOSAudioForceToSpeaker.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b2fbbad5642e37e45b778dfa7336b55c</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/Logger.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5d3c3acd76d02834cab32fd59144e27b</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/MicWrapper.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d6ac92ecc68f5844986af1f12ba3b60</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/MicWrapperPusher.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>77f5746d94579e3449f7d47481495191</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/UnityAndroidAudioInAEC.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7cbffe9dfdd4b547a75479a23097ff4</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/UnityAudioOut.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0999de601f88ae74bb58440b4898d84a</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Unity/UnityMicrophone.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f2c69afb30794f445b1c5cebc5e6a3fe</guid>
+    <fileName>Assets/Photon/PhotonVoice/PhotonVoiceApi/Platforms/Windows/WindowsAudioIn.cs</fileName>
+    <timeStamp>2020-09-17T11:07:26+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>97e26605c5ef4114aba5bd04750ad911</guid>
+    <fileName>Assets/Scripts/AudioSettingsManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6742823+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AudioSettingsManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f79de45168fc044686175c8cbe5a878</guid>
+    <fileName>Assets/Scripts/BlimpMovement.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.2927064+08:00</timeStamp>
+    <typeFullName>
+      <string>BlimpMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b33cb694bdfd3874a88b695d3a155cc3</guid>
+    <fileName>Assets/Scripts/BoothDisplay.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.2946774+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.BoothDisplay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94e8f8292f8984c479d48c3da2d9647f</guid>
+    <fileName>Assets/Scripts/CameraInteraction.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6922342+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CameraInteraction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f7131155aee361e4fa1b4a4264957dfc</guid>
+    <fileName>Assets/Scripts/CinemachineObstructionZoom.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6922342+08:00</timeStamp>
+    <typeFullName>
+      <string>Cinemachine.CinemachineObstructionZoom</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53bc2ea25d20e954d8d6081430ee78b4</guid>
+    <fileName>Assets/Scripts/ConferenceRoomManager.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4565972+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceRoomManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>73188c137d9546c4ca91edef6f723df0</guid>
+    <fileName>Assets/Scripts/ConferenceSceneSettings.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4565972+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceSceneSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>406690f52aa5b6743b8216aeaef60a87</guid>
+    <fileName>Assets/Scripts/ConferenceVoiceConnection.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7012105+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceVoiceConnection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6bc9630e8bcb2a344b52b9219978d769</guid>
+    <fileName>Assets/Scripts/ConfineXRPosition.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7012105+08:00</timeStamp>
+    <typeFullName>
+      <string>ConfineXRPosition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9088f56c8e238564c8c2a07440825195</guid>
+    <fileName>Assets/Scripts/DeactivateForNonAdmin.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7022075+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.DeactivateForNonAdmin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>69821a4d7fe32ef4380d82bcc68ebc04</guid>
+    <fileName>Assets/Scripts/DestroyOnStart.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>DestroyOnStart</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1818e119a91e92b4c8c525e44384681f</guid>
+    <fileName>Assets/Scripts/EngineVfx.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>EngineVfx</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a532e9e71f46bc409f2a282737c33e1</guid>
+    <fileName>Assets/Scripts/InputHelpUi.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.3026562+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.InputHelpUi</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>01bfef132de93b841a56d59a08fed270</guid>
+    <fileName>Assets/Scripts/LoadWebsite.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.3026562+08:00</timeStamp>
+    <typeFullName>
+      <string>LoadWebsite</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fa12fc93a5b4fc24485f1ff8f1b3b041</guid>
+    <fileName>Assets/Scripts/LogManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7061969+08:00</timeStamp>
+    <typeFullName>
+      <string>LogManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>37cdc3fac304d77428853166f30d58d2</guid>
+    <fileName>Assets/Scripts/OperationResponseExtensions.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.OperationResponseExtensions</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5dea1636223a4fc409eed594a7b7d4a6</guid>
+    <fileName>Assets/Scripts/PhoneScreen.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4585915+08:00</timeStamp>
+    <typeFullName>
+      <string>PhoneScreen</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3ab1b447cf7a5644fa27e64713b87d7e</guid>
+    <fileName>Assets/Scripts/Rotator.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7171681+08:00</timeStamp>
+    <typeFullName>
+      <string>Rotator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a88d2e673582ed4c9b64fa58fb3e3e0</guid>
+    <fileName>Assets/Scripts/ShowAndHideWhenInZone.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ShowAndHideWhenInZone</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b2d42771ccb09b469ea57347d2c4ee8</guid>
+    <fileName>Assets/Scripts/SpawnPoint.cs</fileName>
+    <timeStamp>2020-10-29T15:48:04.1776599+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpawnPoint</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f28c6e2ccf5234240b1e7d9e3034f467</guid>
+    <fileName>Assets/Scripts/TeleportReticlePC.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7301332+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.TeleportReticlePC</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4de99cd344a429e43b988694d155d1c5</guid>
+    <fileName>Assets/Scripts/XRSceneSettingsHandler.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7470876+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.XRSceneSettingsHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>738f7f48b108d48458130a92a284d825</guid>
+    <fileName>Assets/Scripts/Audio/Ambience.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6702929+08:00</timeStamp>
+    <typeFullName>
+      <string>Ambience</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7f097cf857b7d2644b9bbc761dcebfae</guid>
+    <fileName>Assets/Scripts/Audio/AudioManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6702929+08:00</timeStamp>
+    <typeFullName>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ce8fcc18ac3461340a6c06a0b780034d</guid>
+    <fileName>Assets/Scripts/Audio/AudioRandomizer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6712904+08:00</timeStamp>
+    <typeFullName>
+      <string>AudioRandomizer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5129e48446ec54458f7c680d316b4f0</guid>
+    <fileName>Assets/Scripts/Audio/AudioSnapshotManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6712904+08:00</timeStamp>
+    <typeFullName>
+      <string>AudioSnapshotManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>79effdb2c25c8434dbd3db0e9d0276d3</guid>
+    <fileName>Assets/Scripts/Audio/AudioStartRandomPosition.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6712904+08:00</timeStamp>
+    <typeFullName>
+      <string>AudioStartRandomPosition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e6a01170c8a48d24285fa423a6291eb3</guid>
+    <fileName>Assets/Scripts/Audio/bgm.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6742823+08:00</timeStamp>
+    <typeFullName>
+      <string>bgm</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>129fbcaa3c5c4b44881720e2894d5858</guid>
+    <fileName>Assets/Scripts/Audio/FadeAudioSource.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6722875+08:00</timeStamp>
+    <typeFullName>
+      <string>FadeAudioSource</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>14c9f1bc40397f94ba236d8c34f71ee9</guid>
+    <fileName>Assets/Scripts/Audio/Sound.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6722875+08:00</timeStamp>
+    <typeFullName>
+      <string>Sound</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4a9df941d3a5abc42ba27a16961c57cb</guid>
+    <fileName>Assets/Scripts/Audio/UISounds.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6722875+08:00</timeStamp>
+    <typeFullName>
+      <string>UISounds</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e8d98f2e59cd7644aba632370402399a</guid>
+    <fileName>Assets/Scripts/Audio/UISoundsButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6722875+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.UISoundsButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>438cc79a0fe518b4c81cd79d6a7a780f</guid>
+    <fileName>Assets/Scripts/Audio/UISoundsButtonCancel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6732848+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.UISoundsButtonCancel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>49262f5906c07db4fbbc71a39c3164f1</guid>
+    <fileName>Assets/Scripts/Audio/UISoundsButtonConfirm.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6732848+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.UISoundsButtonConfirm</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>77275f12954d779449186a641064a114</guid>
+    <fileName>Assets/Scripts/Avatars/ApplyRandomCustomization.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ApplyRandomCustomization</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e2a2f33d86b39b446b152e26b702fa1b</guid>
+    <fileName>Assets/Scripts/Avatars/Avatar.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4526311+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.Avatar</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a952680b1a98da6419569487a1fed149</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarAnimator.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6762766+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarAnimator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>841deff3d392e954284a9f35aeb282fe</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarBadge.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6762766+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarBadge</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>939831fbfad560f4d87e3c99bffc2448</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarBodyDynamics.cs</fileName>
+    <timeStamp>2020-09-28T09:58:11.1219145+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarBodyDynamics</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>99e749735b4b637439a999f750539cd0</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarChatPopup.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6772985+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarChatPopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d5d70353699660f448297b87c67bdf11</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarCustomization.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6772985+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarCustomization</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b8c448ddfc3f40c42b28aa527680ad8d</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarDeviceIcons.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6772985+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarDeviceIcons</string>
+      <string>SpaceHub.Conference.AvatarDeviceIcons+DeviceType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>614e21464a5ddcd4f9f19bce2e2a8c41</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarHandColor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6782953+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarHandColor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e78f3568a32c00a429313814a26c792b</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarInteractor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6782953+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarInteractor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2908847842a2ba140ba62cb7c81dfaa9</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarMovement.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4536285+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarMovement</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4137c82e0022c7f498e4797673ef8866</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarMuteIcon.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6792691+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarMuteIcon</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0c020299d6eef994c95fdabc1f754872</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarNeck.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6792691+08:00</timeStamp>
+    <typeFullName>
+      <string>AvatarNeck</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a67dbfab16b463544894e91478b90e53</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarSkirtFollow.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6802662+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarSkirtFollow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8e0097bfafd539140a50b31a831d5bc4</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarVisualsBase.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6802662+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarVisualsBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2047e2d82b9afef42b753c789928fe64</guid>
+    <fileName>Assets/Scripts/Avatars/AvatarXR.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6802662+08:00</timeStamp>
+    <typeFullName>
+      <string>AvatarXR</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ddb6a301124814f42a378b355133c41d</guid>
+    <fileName>Assets/Scripts/Avatars/RandomAnimatorSpeed.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>RandomAnimatorSpeed</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c4acaa7b8947cab4aad30781380765cc</guid>
+    <fileName>Assets/Scripts/Avatars/TalkingDetector.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6912369+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.TalkingDetector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a6f5795d9df8fb14d87d31eda5d310b0</guid>
+    <fileName>Assets/Scripts/Avatars/TalkingDetectorLocal.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6912369+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.TalkingDetectorLocal</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2285b15e842a29149836cf4572c34f85</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/ColorPickerHueRing.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6812635+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ColorPickerHueRing</string>
+      <string>SpaceHub.Conference.ColorPickerHueRing+SliderEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>549c71d631226304dad781a97c6b3d97</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/ColorPickerSquare.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.682261+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ColorPickerSquare</string>
+      <string>SpaceHub.Conference.ColorPickerSquare+SliderEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7d0f5982b42a2234ba280286c8bb8bb8</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationArtCategory.cs</fileName>
+    <timeStamp>2020-09-28T09:58:11.1453086+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationArtCategory</string>
+      <string>SpaceHub.Conference.CustomizationArtCategory+CustomizationAsset</string>
+      <string>SpaceHub.Conference.CustomizationArtCategory+PreviewOffset</string>
+      <string>SpaceHub.Conference.CustomizationArtCategory+CategoryType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ced1563ff0cabe14ba4fb2b6d46e6a51</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationArtPack.cs</fileName>
+    <timeStamp>2020-10-15T08:18:19.9651719+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationArtPack</string>
+      <string>SpaceHub.Conference.CustomizationArtPack+EmoteData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9a1354edbc5837340899fc3c35066d08</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationButtonCompany.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6832588+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationButtonCompany</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f2e986a8eee55754e965ba8f4f2c7181</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationButtonName.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6832588+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationButtonName</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6fd008cdbc0639f4d86f51be460082eb</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationButtonRegion.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6842569+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationButtonRegion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7d80c95ce59c33c4baff7ec94c56daea</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationCategoryButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6842569+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationCategoryButton</string>
+      <string>SpaceHub.Conference.CustomizationCategoryButtons</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a7c7106294f3ed4c91d74b0fbc5e871</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationCategoryButtons.cs</fileName>
+    <timeStamp>2020-09-28T09:58:11.2109967+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationCategoryButtons</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>380694c31ad69f245a539a1affac76c6</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationColor.cs</fileName>
+    <timeStamp>2020-10-15T08:18:19.9651719+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationColor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>346a4a92ca98ad642a52923978346118</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationColorButtons.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6852527+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationColorButtons</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d933e382d7df5b4e8dfaef8d9073ad7</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationColorPicker.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6862501+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationColorPicker</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>025e707dbfebe5f4fab04090463fe0fa</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationColorPreset.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6862501+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationColorPreset</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85f50befb176cfd468daa976ea38e6e8</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationColorShirt.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6862501+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationColorShirt</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>600307d5eacccea45b01a979f3e86e5e</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationColorSkin.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6872477+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationColorSkin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4b1237323f0d7c54f8beff5d4723d33d</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationData.cs</fileName>
+    <timeStamp>2020-10-15T08:18:19.9661697+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b45bba55cc274664aaef4e64633c85fa</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationMenu.cs</fileName>
+    <timeStamp>2020-10-15T08:31:44.9520087+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>90878c8753c28a04cb0621e2c4729ae7</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationMenuLogin.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.654629+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationMenuLogin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aca430f8eae53c641b4eee24fca6f3f9</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationMenuLoginPanel.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6566236+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationMenuLoginPanel</string>
+      <string>SpaceHub.Conference.CustomizationMenuLoginPanel+SpaceHubLoginStage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6f88e1378f8857f40a98d80d1bdaa038</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationObject.cs</fileName>
+    <timeStamp>2020-09-28T09:58:11.3500252+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationObject</string>
+      <string>SpaceHub.Conference.CustomizationObject+Data</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>519eb2a8c724a6f4cb2616cb2176ae61</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationObjectDefaultDataCreator.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6892423+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationObjectDefaultDataCreator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>113cd577b424d494b878e3ea3345b4b2</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationTabs.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6902399+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationTabs</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fc2fa48825116fa44a368829669600ee</guid>
+    <fileName>Assets/Scripts/Avatars/Customization/CustomizationTabToggle.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6902399+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationTabToggle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d4e3611fccdf9f45aaa4f31b0a10941</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/AvatarManager.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4546026+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1febfaa7f8981f64b9a845fc16c10aa0</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceChatListener.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6576212+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceChatListener</string>
+      <string>SpaceHub.Conference.ConferenceChatListener+CustomMessageType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e77c4e2822dd1db4e8ec372ef0538c5b</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceConnector.cs</fileName>
+    <timeStamp>2020-12-23T11:08:49.8452405+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>156fe2a99def9904f8ab4a393c84569c</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceCustomProperties.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6952267+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PhotonPlayerExtensions</string>
+      <string>SpaceHub.Conference.ConferenceCustomProperties</string>
+      <string>SpaceHub.Conference.ConferenceCustomProperties+CallStatusType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5ad9c5eef64c540469d6295bbbb1ba1c</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceEvent.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ae628027a83843f47b0d1b514a6036d4</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceNetwork.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b59942831a54c724fa2ffe621ae51c7d</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceNetworkHandlerBase.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cfabbfeacdb3ab944ae193cc3940aec0</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceNetworkHandlerConnections.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a97b4e55bcadd0428097f11057341c1</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceNetworkHandlerEvents.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e2d6eab83af591c44bf1cc441836b837</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceNetworkHandlerPlayers.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>78bded9799e235546891147d3a323fde</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceNetworkHandlerRooms.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>62e3aca2680b2594bb06411b6f0965e7</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferencePlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6982183+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferencePlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a09c2b33ab51a44c8d75818d54fd1c3</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferencePrivateCalls.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6982183+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferencePrivateCalls</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cbbdea1670ec75a4fb72a1c553a4f1bf</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/ConferenceServerSettings.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6606365+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceServerSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>28f3776e34dd7544f87dbf561fee8ab5</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/CustomTypes.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.6992158+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomTypes</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a27d8a674b3808d4f9fbe979168c906e</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/Helpers.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>7168177139262384ebe44d14ae2b7fbe</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/IConferenceCallbacks.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7002138+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.IConferenceCallbacks</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>11293bfa94c55144aa993f20280e41ee</guid>
+    <fileName>Assets/Scripts/ConferenceNetwork/Custom Child Scripts/CustomAvatarManager.cs</fileName>
+    <timeStamp>2020-10-29T15:48:04+08:00</timeStamp>
+    <typeFullName>
+      <string>Vircon.CustomScripts.CustomAvatarManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>632370ac4b733844ab343286bd115081</guid>
+    <fileName>Assets/Scripts/Custom Scripts/BoothContentData.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.2976926+08:00</timeStamp>
+    <typeFullName>
+      <string>BoothContentData</string>
+      <string>SlideContentData</string>
+      <string>BoothContentDataList</string>
+      <string>BoothDisplayContent</string>
+      <string>SlideDisplayContent</string>
+      <string>ContentLocation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbbd977a8bc581d4a830eda004ccba5f</guid>
+    <fileName>Assets/Scripts/Custom Scripts/ContentManager.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6606365+08:00</timeStamp>
+    <typeFullName>
+      <string>ContentManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ee19a2a767cba29458b94868e4ddcbea</guid>
+    <fileName>Assets/Scripts/Custom Scripts/CustomLatency.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30+08:00</timeStamp>
+    <typeFullName>
+      <string>CustomLatency</string>
+      <string>CustomLatency+Latency</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c26a7411211bf07449d4ece7aceaaac8</guid>
+    <fileName>Assets/Scripts/Custom Scripts/EmotesToggle.cs</fileName>
+    <timeStamp>2020-09-29T08:31:09+08:00</timeStamp>
+    <typeFullName>
+      <string>EmotesToggle</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82f50b7b281387240b1d12f5723789a4</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Team Building/TeamBuildingCodes.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30+08:00</timeStamp>
+    <typeFullName>
+      <string>TeamBuilding.TeamBuildingCodes</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e104f65e7a52dd144a5b63ddef27466a</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Team Building/Escape Cubes/CubeObject.cs</fileName>
+    <timeStamp>2020-10-29T15:48:04+08:00</timeStamp>
+    <typeFullName>
+      <string>TeamBuilding.Games.EscapeCubes.CubeObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97af6d1c7c45bbd48abfcd5d22e33177</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Team Building/Escape Cubes/CubeObjectManager.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47+08:00</timeStamp>
+    <typeFullName>
+      <string>TeamBuilding.Games.EscapeCubes.BoxColor</string>
+      <string>TeamBuilding.Games.EscapeCubes.CubeObjectManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac16443697d0376439c24f567a55a9c4</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Team Building/Escape Cubes/DropBox.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30+08:00</timeStamp>
+    <typeFullName>
+      <string>TeamBuilding.Games.EscapeCubes.DropBox</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b548259c6aa55a47b6880a539e09a69</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Team Building/Escape Cubes/EscapeCubesUI.cs</fileName>
+    <timeStamp>2020-10-29T15:48:04+08:00</timeStamp>
+    <typeFullName>
+      <string>TeamBuilding.Games.EscapeCubes.UI.EscapeCubesUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6d28d84ba64e82c4ca19481c3aeab8bd</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Trivia Engine/Trivia.cs</fileName>
+    <timeStamp>2020-10-15T08:31:44+08:00</timeStamp>
+    <typeFullName>
+      <string>Trivia</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cef7c140fb5c651478e7b78fd294bb53</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Trivia Engine/TriviaManager.cs</fileName>
+    <timeStamp>2020-10-29T15:48:04+08:00</timeStamp>
+    <typeFullName>
+      <string>TriviaManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>17063be8ea82f2449bf60ab6562f42a1</guid>
+    <fileName>Assets/Scripts/Custom Scripts/Trivia Engine/TriviaObject.cs</fileName>
+    <timeStamp>2020-10-15T08:31:44+08:00</timeStamp>
+    <typeFullName>
+      <string>TriviaObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>360dfe1e8ff53b1459a8016f8972d759</guid>
+    <fileName>Assets/Scripts/Interactables/ConferenceInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7051995+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceInteraction</string>
+      <string>SpaceHub.Conference.ConferenceInteractable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bb8d29d52096b6e4aa8f28ce41f6dbbd</guid>
+    <fileName>Assets/Scripts/Interactables/ConferenceInteractableHighlights.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7051995+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConferenceInteractableHighlights</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b84d73f2b9b82914eb999e31b80325e8</guid>
+    <fileName>Assets/Scripts/Interactables/GoToStageInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7051995+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.GoToStageInteractable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43bcdac3d33662344a5e1c1c4f9022f4</guid>
+    <fileName>Assets/Scripts/Interactables/LoadSceneInteractable.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7061969+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.LoadSceneInteractable</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ed02edeaef07a4445acbfb8a5be18b7a</guid>
+    <fileName>Assets/Scripts/Interactables/Chatbubble/Chatbubble.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7042022+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.Chatbubble</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>382455ff81b016649b880bc2d51d9bbf</guid>
+    <fileName>Assets/Scripts/Interactables/Chatbubble/ChatbubblePlayerCountDisplay.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7042022+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ChatbubblePlayerCountDisplay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fbae4fc99a76e1641944b72568e4f957</guid>
+    <fileName>Assets/Scripts/Login Flow/EventsPanel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7071942+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.EventsPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82f8873e312f938489bb31f56c1ef98f</guid>
+    <fileName>Assets/Scripts/Moderation/BlockedUserListItem.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7071942+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.BlockedUserListItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22e1fc160e721804799c4ccd459155fe</guid>
+    <fileName>Assets/Scripts/Moderation/BlockedUsersList.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7081916+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.BlockedUsersList</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7e52ec2c122e9a041b410a3f389b2c5c</guid>
+    <fileName>Assets/Scripts/Moderation/ModUserList.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7081916+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ModUserList</string>
+      <string>SpaceHub.Conference.ModUserList+Wrapper</string>
+      <string>SpaceHub.Conference.ModUserList+RoleType</string>
+      <string>SpaceHub.Conference.ModUserList+FlagType</string>
+      <string>SpaceHub.Conference.ModUserList+RoleData</string>
+      <string>SpaceHub.Conference.ModUserList+ReportData</string>
+      <string>SpaceHub.Conference.ModUserList+UserListData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>117aae80b52954749a48322de3443de7</guid>
+    <fileName>Assets/Scripts/Moderation/ModUserListItem.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7091889+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ModUserListItem</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8dc3efb6196d27848b4afa5cf2e0a21f</guid>
+    <fileName>Assets/Scripts/Moderation/ModUserListPages.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7091889+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ModUserListPages</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5a5c56954ef3d2b4f92d875b0e005c89</guid>
+    <fileName>Assets/Scripts/Moderation/ModUserPopup.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7101871+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ModUserPopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f027b38b23f13d84aa660db18357cdc8</guid>
+    <fileName>Assets/Scripts/Moderation/SignalManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7101871+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SignalManager</string>
+      <string>SpaceHub.Conference.SignalManager+SignalType</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0cf7f6f7e9ddd924bb41587974f76508</guid>
+    <fileName>Assets/Scripts/Platforms/DeleteForWebGL.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7111836+08:00</timeStamp>
+    <typeFullName>
+      <string>DeleteForWebGL</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3f04267599ff5747bc630222592e649</guid>
+    <fileName>Assets/Scripts/Players/CameraThirdPerson.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6616338+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CameraThirdPerson</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8d7a18e09f587a64485eecc715cc834c</guid>
+    <fileName>Assets/Scripts/Players/CameraTopDown.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7121811+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CameraTopDown</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>edfbde47722246841a01199611015da2</guid>
+    <fileName>Assets/Scripts/Players/FollowNavmeshAgent.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7121811+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.FollowNavmeshAgent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>befe6dabccd411b4884002e8425a3eec</guid>
+    <fileName>Assets/Scripts/Players/FramerateGuard.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7131783+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.FramerateGuard</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8b66db4652b0e304c8f56d328ed2f16a</guid>
+    <fileName>Assets/Scripts/Players/OrientTowardsLocalPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7131783+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.OrientTowardsLocalPlayer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5cb669ddad257674581aab887b909f38</guid>
+    <fileName>Assets/Scripts/Players/PCRig.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6616338+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PCRig</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a38bcc1972e97b4b94fc02ed5f5896f</guid>
+    <fileName>Assets/Scripts/Players/PlayerBase.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4585915+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PlayerBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>772392c7255b037489ea316ab8122997</guid>
+    <fileName>Assets/Scripts/Players/PlayerLocal.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4595886+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PlayerLocal</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>41f924d16c8a5d743936ee3e980799a2</guid>
+    <fileName>Assets/Scripts/Players/PlayerLocalChatbubble.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7141756+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PlayerLocalChatbubble</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ac48069a53235a84e8098c7f0e70146f</guid>
+    <fileName>Assets/Scripts/Players/PlayerManager.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4595886+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PlayerManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0a83f94d05b70854788e17d62bb318b9</guid>
+    <fileName>Assets/Scripts/Players/PlayerTest.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7151728+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PlayerTest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b05acabf17e950946836e48957b4a9ca</guid>
+    <fileName>Assets/Scripts/Players/XRSystem.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7171681+08:00</timeStamp>
+    <typeFullName>
+      <string>XRSystem</string>
+      <string>XRSystem+XRSystemData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39d66d475b3b10747be614334f48c2fd</guid>
+    <fileName>Assets/Scripts/Sandbox/Sandbox.cs</fileName>
+    <timeStamp>2020-10-29T15:48:04.1766632+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.Sandbox</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>94a07b7132c3b2b4eb2c448062f16921</guid>
+    <fileName>Assets/Scripts/Sandbox/SandboxManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7181649+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SandboxManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cbd22d639cf9987438ed8b481ebc86cd</guid>
+    <fileName>Assets/Scripts/Sandbox/SandboxObject.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7191623+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SandboxObject</string>
+      <string>SpaceHub.Conference.SandboxObject+SandboxRpc</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7c1e717df5a2dad488356039806e55de</guid>
+    <fileName>Assets/Scripts/Sandbox/SandboxObjectBoardPiece.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SandboxObjectBoardPiece</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ec07c5f500c25fc4886ff9def5f02fcd</guid>
+    <fileName>Assets/Scripts/Sandbox/SandboxObjectResetButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SandboxObjectResetButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f11821ef55d80644ca22c73580dc2fd9</guid>
+    <fileName>Assets/Scripts/Spaces/Space.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.72016+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.Space</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>02be1b51be1599d428e84e412ad18217</guid>
+    <fileName>Assets/Scripts/Spaces/SpaceClickableUrl.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7211569+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpaceClickableUrl</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d72d0760a4818034ea4800d6b9e8c5d9</guid>
+    <fileName>Assets/Scripts/Spaces/SpaceImage.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7211569+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpaceImage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c37e4521f9bb1da4e8e2a16cac6f6301</guid>
+    <fileName>Assets/Scripts/Spaces/SpaceObject.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7211569+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpaceObject</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25a9742deedbe0f4d9b23ea839dfdfe0</guid>
+    <fileName>Assets/Scripts/Spaces/SpaceSign.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7221543+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpaceSign</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a3cd86b6d03f2674d957e278a58f1f51</guid>
+    <fileName>Assets/Scripts/Spaces/SpacesManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7221543+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpacesManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6b442198f8ec88c438657493527835b5</guid>
+    <fileName>Assets/Scripts/Stage/EmoteMessageHandler.cs</fileName>
+    <timeStamp>2020-11-23T18:21:30.3076436+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.EmoteMessageHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67d7f12249a5d1340ab50f0928652d28</guid>
+    <fileName>Assets/Scripts/Stage/PresentationManager.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.460586+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PresentationManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5f3b384567757d345b000da0f112bf97</guid>
+    <fileName>Assets/Scripts/Stage/SpeakerHandler.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.460586+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SpeakerHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>155de224d90ca434a900702364a76bb8</guid>
+    <fileName>Assets/Scripts/Stage/StageAttendeeManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7261447+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.StageAttendeeManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f68ee50f312d14745a7a213392c3792f</guid>
+    <fileName>Assets/Scripts/Stage/StageAttendeePlacer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>StageAttendeePlacer</string>
+      <string>StageAttendeePlacer+RowData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>475880eda731d4848ac886735178571a</guid>
+    <fileName>Assets/Scripts/Stage/StageAttendeesCount.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.StageAttendeesCount</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>dfe3e3fe481f82c4abdd5251c35498fa</guid>
+    <fileName>Assets/Scripts/Stage/StageChatConnection.cs</fileName>
+    <timeStamp>2020-12-15T15:40:43.8869004+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.StageChatConnection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c697bb9e39aa8c1419b7ba16e3591c51</guid>
+    <fileName>Assets/Scripts/Stage/StageHandlerBase.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.460586+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.StageHandlerBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a37741501e5223b47ba6b4a5997a06ee</guid>
+    <fileName>Assets/Scripts/Stage/StageHandlerChat.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.StageHandlerChat</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4482e102ef6a1ff4da24b3948be8b214</guid>
+    <fileName>Assets/Scripts/Stage/StageHandlerRealtime.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4615833+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.StageHandlerRealtime</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9fb0b223b4c2a2499e0f2dcfee356ae</guid>
+    <fileName>Assets/Scripts/Stage/Editor/StageAttendeePlacerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>27e8285a7ff9b39448a5c778e281ea7c</guid>
+    <fileName>Assets/Scripts/UI/AudioSettingsMenu.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7311306+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AudioSettingsMenu</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c5050b23c18b61479268348344fee7d</guid>
+    <fileName>Assets/Scripts/UI/AvatarInfoPopup.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7311306+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.AvatarInfoPopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>43a358bbfe69ec249af5ade8b713af0f</guid>
+    <fileName>Assets/Scripts/UI/BackUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7321281+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.BackUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>244af688c7f275244bd944f0577ad33b</guid>
+    <fileName>Assets/Scripts/UI/ChatChannelsList.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7321281+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ChatChannelsList</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8405f1b719397844da35d8c7a0f25e17</guid>
+    <fileName>Assets/Scripts/UI/Chatlog.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7331261+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.Chatlog</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aeb09bddafc1b2d4390fd8147b7d0e48</guid>
+    <fileName>Assets/Scripts/UI/Clock.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7331261+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.Clock</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58b9a8f0b8941534a8594d4aa4f21a57</guid>
+    <fileName>Assets/Scripts/UI/ConnectingOverlay.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7331261+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ConnectingOverlay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62119163356edcb48a8a6849e0f55791</guid>
+    <fileName>Assets/Scripts/UI/CustomizationRotator.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7341226+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.CustomizationRotator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>22290ccc9b6fdd7459992dfbb9875696</guid>
+    <fileName>Assets/Scripts/UI/DebugPanel.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7341226+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.DebugPanel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>577ca95bac2642e41a743e045ce41eac</guid>
+    <fileName>Assets/Scripts/UI/DebugPanelPopup.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7341226+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.DebugPanelPopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>92f79928c0d9fb54b933c627cf4c3f40</guid>
+    <fileName>Assets/Scripts/UI/DisplayConnectivity.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7351198+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.DisplayConnectivity</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6e5c152d8dd80c549bcb3556631b1a61</guid>
+    <fileName>Assets/Scripts/UI/EmotesUi.cs</fileName>
+    <timeStamp>2020-10-15T08:18:19.9701585+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.EmotesUi</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f5dd645c8a6cfa48bda881e02484e33</guid>
+    <fileName>Assets/Scripts/UI/FPSDisplay.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7351198+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.FPSDisplay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9e9a36b4983e01498f2e61bd9cf3a94</guid>
+    <fileName>Assets/Scripts/UI/FunnelInputCheck.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.736117+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.FunnelInputCheck</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aa409d6dd557776498b4ec0d4e74040f</guid>
+    <fileName>Assets/Scripts/UI/LoadSceneButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.LoadSceneButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>afc1dec03e553d448ad096f32d27c1da</guid>
+    <fileName>Assets/Scripts/UI/LocalPlayerCallRequestsButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7371142+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.LocalPlayerCallRequestsButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eac7500a5fb59e349969bbe5e794a94f</guid>
+    <fileName>Assets/Scripts/UI/MainMenuPopup.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.4625806+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.MainMenuPopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>57843e257416f384d8485c55bb7b3072</guid>
+    <fileName>Assets/Scripts/UI/MessagePopup.cs</fileName>
+    <timeStamp>2020-12-15T15:41:47.463578+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.MessagePopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>31d256ba8831f2749952ae08b7f04a16</guid>
+    <fileName>Assets/Scripts/UI/MessagePopupMessage.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7381116+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.MessagePopupMessage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6eedd4dcf12107841bd3e6d43396bd79</guid>
+    <fileName>Assets/Scripts/UI/PopupBase.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7381116+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PopupBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6cae6741c399a544f8c8484049f00a68</guid>
+    <fileName>Assets/Scripts/UI/PopupXRPosition.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.739109+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PopupXRPosition</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cc072d133fff43a4c881e01bd053c6b1</guid>
+    <fileName>Assets/Scripts/UI/PrivateCallButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.739109+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PrivateCallButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d42deaca4d5b9b42993137de7e4d1eb</guid>
+    <fileName>Assets/Scripts/UI/PrivateCallList.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.739109+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PrivateCallList</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e4cdccee8290e164d8edf030a1717224</guid>
+    <fileName>Assets/Scripts/UI/PrivateCallPopup.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7401065+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.PrivateCallPopup</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>61b26a97c0bc2d14b8c4ff0dd482c1ae</guid>
+    <fileName>Assets/Scripts/UI/ResolutionDialog.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6626305+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ResolutionDialog</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>425054716c6baf7459f3d110599ad68b</guid>
+    <fileName>Assets/Scripts/UI/SendErrorLogToDev.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7401065+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SendErrorLogToDev</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e1cfe34839abcd4caf3a2835c0bd403</guid>
+    <fileName>Assets/Scripts/UI/SetZPositionInViewMode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7411036+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SetZPositionInViewMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2bc2ea578a1960d4bbdd57932af1be51</guid>
+    <fileName>Assets/Scripts/UI/Spinner.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7411036+08:00</timeStamp>
+    <typeFullName>
+      <string>Spinner</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>111f0e4a445571d4dac0f88dd42471ac</guid>
+    <fileName>Assets/Scripts/UI/TabButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7411036+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.TabButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3e1d51141155464b8982b1a78ba2ced</guid>
+    <fileName>Assets/Scripts/UI/UiAudioLevelDisplay.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7421009+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.UiAudioLevelDisplay</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5dc1f3654d79008459d0e81bc32c6956</guid>
+    <fileName>Assets/Scripts/UI/UiFunnelManager.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6636279+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.UiFunnelManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d14a8054fe9afff4c8dafa2a59b2e27d</guid>
+    <fileName>Assets/Scripts/UI/UIFunnelScreen.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7421009+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.UIFunnelScreen</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2b7512c53f62b4845bad04a02cce4e5e</guid>
+    <fileName>Assets/Scripts/UI/UIIgnoreRaycast.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7421009+08:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.UI.UIIgnoreRaycast</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ba7c759d0a38b044ea9fe624baeb366a</guid>
+    <fileName>Assets/Scripts/UI/VersionText.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7430982+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.VersionData</string>
+      <string>SpaceHub.Conference.VersionText</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1698015e21b90f34cbb101d2d5b8ba0c</guid>
+    <fileName>Assets/Scripts/UI/WatchUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7440955+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.WatchUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50345caa303c35e4c91ee6194995bc91</guid>
+    <fileName>Assets/Scripts/UI/WebGLButtonHelper.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7440955+08:00</timeStamp>
+    <typeFullName>
+      <string>WebGLButtonHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>97b07d2d7d3ee4d4aa43defced7a5d2e</guid>
+    <fileName>Assets/Scripts/UI/XRUILookAtFade.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7440955+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.XRUILookAtFade</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>38fd44df4800e154f85cf88ac7b26dd0</guid>
+    <fileName>Assets/Scripts/View Modes/DisableWhenWrongViewMode.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.DisableWhenWrongViewMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e13149b3437dc1549baa5310688a0d2f</guid>
+    <fileName>Assets/Scripts/View Modes/ViewModeBase.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7450932+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ViewModeBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd2f4c58da9473a49a531d4de71e5d75</guid>
+    <fileName>Assets/Scripts/View Modes/ViewModeCanvasCameraSelector.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ViewModeCanvasCameraSelector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6193bda81a9ce47449e3fe7555238006</guid>
+    <fileName>Assets/Scripts/View Modes/ViewModeManager.cs</fileName>
+    <timeStamp>2020-12-23T09:19:17.6636279+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ViewModeManager</string>
+      <string>SpaceHub.Conference.ViewModeManager+ViewMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a445291ecb1b7574f9eb2843ed38f58f</guid>
+    <fileName>Assets/Scripts/View Modes/ViewModeThirdPerson.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7460903+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ViewModeThirdPerson</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0abaad9a6234ea9458d46c166dae0cd0</guid>
+    <fileName>Assets/Scripts/View Modes/ViewModeXR.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7470876+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.ViewModeXR</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>db98be8fc381e2f4981ff90f63c8e373</guid>
+    <fileName>Assets/SpaceHubGroups/ChannelListButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7540688+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>45291b96f4196fa4d8912e7ce2d1d3cf</guid>
+    <fileName>Assets/SpaceHubGroups/ChannelManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7540688+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c355d0927f95a43488b66e2decacd21b</guid>
+    <fileName>Assets/SpaceHubGroups/ChannelPermissions.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f0f29bdf4d4f04b4fa4f096049bb3c08</guid>
+    <fileName>Assets/SpaceHubGroups/ChatConnector.cs</fileName>
+    <timeStamp>2020-12-15T15:42:10.4443778+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c4a34e67a7291154b83e6e9f75ec1937</guid>
+    <fileName>Assets/SpaceHubGroups/ChatInput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7550662+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d5415318b6da564ebb0eb5af7a05db4</guid>
+    <fileName>Assets/SpaceHubGroups/ChatTopBar.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7560637+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4f711d6712ddddc44bf813696a932db1</guid>
+    <fileName>Assets/SpaceHubGroups/GroupsManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7560637+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>33a7c1b568f287641a993e7034daf27b</guid>
+    <fileName>Assets/SpaceHubGroups/Helper.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9e30e60d9fedfd74bb28f36ebda485b3</guid>
+    <fileName>Assets/SpaceHubGroups/InvitesManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7570622+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d4ae2c39274eed54f9a58d0d1a9b385b</guid>
+    <fileName>Assets/SpaceHubGroups/MinimizeElement.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.758059+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>64277356fa530a74292331afb13cf868</guid>
+    <fileName>Assets/SpaceHubGroups/User.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fb5984ab2bf29b14395a3a8c5bda6ecb</guid>
+    <fileName>Assets/SpaceHubGroups/UserListButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7640421+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bef2289545edc504083167eab4564e93</guid>
+    <fileName>Assets/SpaceHubGroups/UserManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7640421+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a2bb5c820b504c04eb2f7535ae730504</guid>
+    <fileName>Assets/SpaceHubGroups/VoiceControl.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7650398+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f4ec4836e564f044d9dea5ccfc0aa014</guid>
+    <fileName>Assets/SpaceHubGroups/VoiceManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28.7650398+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d8c572c81a03d994b86f08745d5bc046</guid>
+    <fileName>Assets/SpaceHubGroups/VoiceMute.cs</fileName>
+    <timeStamp>2020-09-17T11:07:28+08:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c3d167b04e4d57a4f9c8163d693ec431</guid>
+    <fileName>Assets/VideoIntegrations/Twitch/TwitchTest.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>TwitchTest</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c2bc3715e2d46e4f9642c6b45ec50bc</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Config/PlayerSettings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1372082+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Player.StreamingResolution</string>
+      <string>Vimeo.Player.VideoPlayerType</string>
+      <string>Vimeo.Player.PlayerSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e932370820904ed49b5b2a05bd281c83</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Config/RecorderSettings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1372082+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.EncoderType</string>
+      <string>Vimeo.Recorder.LinkType</string>
+      <string>Vimeo.Recorder.VideoInputType</string>
+      <string>Vimeo.Recorder.CameraType</string>
+      <string>Vimeo.Recorder.Camera360Type</string>
+      <string>Vimeo.Recorder.RenderMode360</string>
+      <string>Vimeo.Recorder.RecordMode</string>
+      <string>Vimeo.Recorder.Resolution</string>
+      <string>Vimeo.Recorder.AspectRatio</string>
+      <string>Vimeo.Recorder.RecorderSettings</string>
+      <string>Vimeo.Recorder.AspectRatioHelper</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cb5f9c9f13fa743f891d5270c5696eb5</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Config/VimeoFolder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1382041+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoFolder</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bf703c12010a54891b96f528a1977304</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Config/VimeoSettings.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1392019+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoSettings</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8c156d52963d243a2b0a863dd448dcd3</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Config/VimeoVideo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1392019+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoVideo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d9516eb1c694ce74aacc7f618557bdaa</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Controls/Player/PlayButton.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Controls.Player.PlayButton</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>72a7510b4e60d4e4dbcbecb4b2d307f6</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Controls/Player/SeekSlider.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>SeekSlider</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8a85f966c264cc240abdbe485566f289</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Editor/BaseEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1421935+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.BaseEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9ce982b1137aa604d98d2048e4bd2b4f</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Editor/VimeoBuildProcessor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1421935+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoBuildProcessor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>de667601b96dfa9478e994723b2088ef</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Editor/VimeoPlayerEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1431905+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoPlayerEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>92c080b4bbfa734459cdf457446a2516</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Editor/VimeoPlugin.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1431905+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.PluginType</string>
+      <string>Vimeo.AvailablePluginType</string>
+      <string>Vimeo.VimeoPlugin</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9d92a80886d559347b189ceec6ef29b8</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Editor/VimeoPluginProcessor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1441877+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoPluginProcesser</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>062e342ff4d90c24f94717bc06638307</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Editor/VimeoRecorderEditor.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1441877+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.VimeoRecorderEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7869a836447a27c49bb38c8d3ff2345c</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Player/VideoController.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.145185+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Player.VideoController</string>
+      <string>Vimeo.Player.VideoController+PlaybackAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7174a652004baed43b39101d78c36e46</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Player/VimeoPlayer.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.145185+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Player.VimeoPlayer</string>
+      <string>Vimeo.Player.VimeoPlayer+VimeoEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3a83f974c87dd493d946e4d111bfe736</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/EncoderManager.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1461821+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.EncoderManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>7ead1f92313fdd3458781a72b710dccd</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/RecorderController.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1491746+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.RecorderController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d020ba4a8e11f3348a12a0596c0a6c51</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/VimeoPublisher.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1491746+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.VimeoPublisher</string>
+      <string>Vimeo.Recorder.VimeoPublisher+UploadAction</string>
+      <string>Vimeo.Recorder.VimeoPublisher+RequestAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>440baa8f86681074b8944952013cb091</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/VimeoRecorder.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.150172+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.VimeoRecorder</string>
+      <string>Vimeo.Recorder.VimeoRecorder+RecordAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>91d837379087d604bb5e0654cb08099f</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/Input/AudioInput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1471796+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.AudioInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4e05151dc3b1f994f894cedad90a2726</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/Input/CameraInput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1471796+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.CameraInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b0d9412ad17c249b1a44467ff4a7b305</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/Input/RenderTextureInput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.148177+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.RenderTextureInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>8f4693e5170353147a0424c594a2dbe2</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/Input/ScreenInput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.148177+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.ScreenInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d7f57797863f0be41ab33c60cce46063</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Recorder/Input/VideoInput.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.148177+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Recorder.VideoInput</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1d93ca9e93146fd4bbc669e729c938a0</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Services/VimeoApi.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.150172+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoApi</string>
+      <string>Vimeo.VimeoApi+PrivacyModeDisplay</string>
+      <string>Vimeo.VimeoApi+PrivacyMode</string>
+      <string>Vimeo.VimeoApi+CommentMode</string>
+      <string>Vimeo.VimeoApi+RequestAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f36deada9e3044089a2ae8fc8eef3209</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Services/VimeoUploader.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.151169+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VimeoUploader</string>
+      <string>Vimeo.VimeoUploader+ChunkUploadEvent</string>
+      <string>Vimeo.VimeoUploader+UploadAction</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>829c9ddb1b011d94581044c65fe4336a</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/SpaceHubConference/SynchedPlaylist.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SynchedPlaylist</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>510dec9781476b64b8c69a41a560a1bb</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/SpaceHubConference/SynchedUtcPlaylist.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SynchedUtcPlaylist</string>
+      <string>SpaceHub.Conference.SynchedUtcPlaylist+ScheduleEntry</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2e4ee513fefa8764ba6c7f8d594cceec</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/SpaceHubConference/SynchedVideo.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1521661+08:00</timeStamp>
+    <typeFullName>
+      <string>SpaceHub.Conference.SynchedVideo</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e00aecc43cb598e40b12efec445ac9f6</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Utils/AutoResize.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1531637+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.Utils.AutoResize</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d053265f8090e9649a1b4602dc39fff5</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Utils/SimpleJSON.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1541622+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.SimpleJSON.JSONBinaryTag</string>
+      <string>Vimeo.SimpleJSON.JSONNode</string>
+      <string>Vimeo.SimpleJSON.JSONArray</string>
+      <string>Vimeo.SimpleJSON.JSONClass</string>
+      <string>Vimeo.SimpleJSON.JSONData</string>
+      <string>Vimeo.SimpleJSON.JSONLazyCreator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f76db71a8b2f8429591b19563561caa2</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Utils/VideoChunk.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1541622+08:00</timeStamp>
+    <typeFullName>
+      <string>Vimeo.VideoChunk</string>
+      <string>Vimeo.VideoChunk+UploadEvent</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>62c1a6f47e048354fb4e909caab6228d</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Scripts/Utils/VimeoTicket.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>VimeoTicket</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a89b6e7ccdc870949a783026b611943f</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Shaders/SkyboxPanoramicBetaShaderGUI.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29+08:00</timeStamp>
+    <typeFullName>
+      <string>UnityEditor.SkyboxPanoramicBetaShaderGUI</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d0a5a5a8843198e46b1978345226eb14</guid>
+    <fileName>Assets/VideoIntegrations/Vimeo/Unity Technologies/Recorder/Framework/Inputs/CBRenderTexture/Engine/GameViewSize.cs</fileName>
+    <timeStamp>2020-09-17T11:07:29.1581505+08:00</timeStamp>
+    <typeFullName>
+      <string>UnityEngine.Recorder.Input.GameViewSize</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>419e976ce3354ca4895c43e78bbd4dec</guid>
+    <fileName>Assets/_Barking_Dog/Common Scripts/MouseLook.cs</fileName>
+    <timeStamp>2020-09-29T08:31:10+08:00</timeStamp>
+    <typeFullName>
+      <string>MouseLook</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5009e9d1b4124d742b8cdf74e3c3f8a6</guid>
+    <fileName>Assets/_Barking_Dog/Common Scripts/Turn_Move.cs</fileName>
+    <timeStamp>2020-09-29T08:31:10+08:00</timeStamp>
+    <typeFullName>
+      <string>Turn_Move</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

@@ -1,0 +1,33 @@
+{
+    "BoothDisplays": [
+        {
+            "Display": {
+                "instanceID": 161544
+            },
+            "Name": "ExpoBldg",
+            "ImageURL": "https://spacehub.world/demo/images/images_booth_03.jpg"
+        },
+        {
+            "Display": {
+                "instanceID": 161640
+            },
+            "Name": "CinemaBldg",
+            "ImageURL": "https://spacehub.world/demo/images/cinema_schedule.jpg"
+        },
+        {
+            "Display": {
+                "instanceID": 160906
+            },
+            "Name": "AmpitheaterBldg",
+            "ImageURL": "https://spacehub.world/demo/images/cinema_schedule.jpg"
+        },
+        {
+            "Display": {
+                "instanceID": 160904
+            },
+            "Name": "ExpoMainBlimp",
+            "ImageURL": "https://spacehub.world/demo/images/cinema_schedule.jpg"
+        }
+    ],
+    "Location": 1
+}

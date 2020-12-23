@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4253421671089680304
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4253421671089680305}
+  - component: {fileID: 4253421671089680306}
+  m_Layer: 0
+  m_Name: PresentationManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4253421671089680305
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4253421671089680304}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4253421671089680306
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4253421671089680304}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d7f12249a5d1340ab50f0928652d28, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ScreenMaterial: {fileID: 2100000, guid: 750887566e1917e4db111314696bfa0c, type: 2}
+  PresentationRenderer: {fileID: 0}
+  TeleprompterRenderer: {fileID: 0}
+  EmptyTexture: {fileID: 0}
+  SlidesParent: {fileID: 0}
+  SlideButtonPrefab: {fileID: 1457702552434034936, guid: 5c670846a4270674ab32fdc22ef99e85,
+    type: 3}
+  SlidesNumberText: {fileID: 0}
+  SliderLoadingBar: {fileID: 0}
+  PreloaderCanvas: {fileID: 0}
+  Location: Presentation
+  SlideDisplays: []

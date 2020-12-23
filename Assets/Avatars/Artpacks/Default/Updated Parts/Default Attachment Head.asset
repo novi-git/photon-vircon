@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d0f5982b42a2234ba280286c8bb8bb8, type: 3}
+  m_Name: Default Attachment Head
+  m_EditorClassIdentifier: 
+  Type: 8
+  DefaultPrefab: {fileID: 3134826308672931615, guid: e3d2023ca34afc64fad17bec76d70cc0,
+    type: 3}
+  PreviewButtonOffset:
+    Offset: {x: 0, y: 0, z: -5}
+    Scale: {x: 50, y: 50, z: 50}
+    Rotation: {x: 90, y: 0, z: 0}
+  Assets:
+  - Mesh: {fileID: 0}
+    Material: {fileID: 0}
+    Prefab: {fileID: 3134826308672931615, guid: e1d2ae892393dcb48955cd62a732934f,
+      type: 3}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: -6518436582887098006, guid: a092d2ff35d4e304d8cfb869b8ebdd8d, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: -3676929158907086148, guid: a092d2ff35d4e304d8cfb869b8ebdd8d, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 5243146299767035823, guid: a092d2ff35d4e304d8cfb869b8ebdd8d, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 1481491755317827917, guid: a092d2ff35d4e304d8cfb869b8ebdd8d, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: 455506080389123088, guid: a092d2ff35d4e304d8cfb869b8ebdd8d, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: -5503919736254848382, guid: a092d2ff35d4e304d8cfb869b8ebdd8d, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}
+  - Mesh: {fileID: -1491149897847267980, guid: 5c4a9310f8f9dc94aa8b4ebddf9ea386, type: 3}
+    Material: {fileID: 0}
+    Prefab: {fileID: 0}
+    Texture: {fileID: 0}

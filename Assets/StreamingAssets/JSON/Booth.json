@@ -1,0 +1,61 @@
+{
+  "BoothDisplays": [
+    {
+      "Display": {
+        "instanceID": 161544
+      },
+      "Name": "Island 1",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 161640
+      },
+      "Name": "Island 1 Back",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 160906
+      },
+      "Name": "Island 2",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 160906
+      },
+      "Name": "Island 2 Back",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 160906
+      },
+      "Name": "Island 3",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 160906
+      },
+      "Name": "Island 3 Back",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 160906
+      },
+      "Name": "Island Space",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    },
+    {
+      "Display": {
+        "instanceID": 160906
+      },
+      "Name": "Island Space Back",
+      "ImageURL": "https://files.taktylstudios.com/demos/vircon/spaceHub/Slides/vcExpo%20Slide%20Placehoders%20-%20Ad.jpg"
+    }
+  ],
+	"Location": 5
+}

@@ -1,0 +1,131 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using Photon.Chat;
+
+namespace SpaceHub.Conference
+{
+
+    public class ConferenceChatListener : MonoBehaviour, IChatClientListener
+    {
+        Groups.ChatConnector m_Chat;
+        Groups.GroupsManager m_Groups;
+        string m_CurrentScene;
+
+        IEnumerator Start()
+        {
+            m_Chat = GetComponent<Groups.ChatConnector>();
+            m_Chat.Listeners.Add( this );
+            ConferenceRoomManager.Instance.SceneChangedCallback += OnSceneChanged;
+
+            string region = PlayerPrefs.GetString( "PhotonRegion", "eu" );
+            m_Chat.AppVersion = VersionData.AppVersion;
+
+            m_Groups = ViewModeManager.Instance.CurrentViewMode.XRSystem.gameObject.GetComponentInChildren<Groups.GroupsManager>();
+
+            m_Chat.SetGroupsManager( m_Groups );
+            m_Groups.VoiceManager.SetConnection( PlayerLocal.Instance.VoiceConnection );
+
+            m_Groups.ChannelManager.LeaveCurrentChannelCallback += OnCurrentChannelLeft;
+            m_Groups.ChannelManager.GetChannelNameOverride = GetChannelName;
+            m_Groups.ChannelManager.SelectChannelCallback += OnSelectChannel;
+
+<<<<<<< HEAD
+=======
+            m_Groups.MinimizerChatLog?.SetEnabledAndVisible( false, true );
+>>>>>>> 684535e600e2ac2b4be51075d426758a6168a3fe
+
+            while( PlayerLocal.Instance.Client.IsConnectedAndReady == false )
+            {
+                yield return null;
+            }
+
+            m_Chat.Connect( PlayerLocal.Instance.Client.UserId, CustomizationData.Instance.Nickname, region );
+        }
+
+        private void OnDestroy()
+        {
+            if( m_Chat != null && m_Chat.Listeners != null && m_Chat.Listeners.Contains( this ) )
+            {
+                m_Chat.Listeners.Remove( this );
+                m_Groups.ChannelManager.LeaveCurrentChannelCallback -= OnCurrentChannelLeft;
+            }
+        }
+
+        void OnCurrentChannelLeft()
+        {
+            m_Groups.ChannelManager.SwitchChannel( m_CurrentScene );
+        }
+
+        void OnSceneChanged( string oldRoom, string newRoom )
+        {
+            if( m_Chat.m_Client == null || m_Chat.m_Client.State != ChatState.ConnectedToFrontEnd )
+            {
+                return;
+            }
+
+            if( string.IsNullOrEmpty( m_CurrentScene ) == false )
+            {
+                m_Groups.ChannelManager.LeaveChannel( m_CurrentScene );
+            }
+
+            m_Groups.ChannelManager.JoinChannel( newRoom, false, 0 );
+
+            Debug.Log( "Chat Channel Changed from " + m_CurrentScene + " to " + newRoom );
+            m_CurrentScene = newRoom;
+        }
+
+        void OnSelectChannel( string channelId )
+        {
+            bool channelIsRoomChannel = channelId == m_CurrentScene;
+            bool showChatlog = !channelIsRoomChannel || ConferenceSceneSettings.Instance.ChatLogEnabledForRoom;
+            bool showChatInput = !channelIsRoomChannel || ConferenceSceneSettings.Instance.ChatInputEnabled;
+            m_Groups.MinimizerChatLog?.SetEnabledAndVisible( showChatlog, true );
+            m_Groups.MinimizerChatInput?.SetEnabledAndVisible( showChatInput, true );
+        }
+
+        string GetChannelName( ChatChannel channel )
+        {
+            if( channel == null )
+            {
+                return "No Channel Selected.";
+            }
+            if( channel.Name == m_CurrentScene )
+            {
+                return ConferenceSceneSettings.Instance.ChatRoomChannelDisplayName + ":";
+            }
+
+            var chatbubble = PlayerLocalChatbubble.Instance.GetCurrentChatBubble();
+            if( chatbubble != null &&
+                 channel.Name == PlayerLocalChatbubble.GetChannelNameForChatbubble( chatbubble.InterestGroup ) )
+            {
+                return "Chat Bubble:";
+            }
+
+            string result = "";
+            foreach( string name in channel.Subscribers )
+            {
+                result += Groups.Helper.GetNicknameFromSenderid( name ) + ", ";
+            }
+            return result;
+        }
+
+        public void OnDisconnected() { }
+
+        public void OnConnected()
+        {
+            OnSceneChanged( "", ConferenceRoomManager.Instance.CurrentRoomName );
+        }
+
+        public void DebugReturn( ExitGames.Client.Photon.DebugLevel level, string message ) { }
+        public void OnChatStateChange( ChatState state ) { }
+        public void OnGetMessages( string channelName, string[] senders, object[] messages ) { }
+        public void OnPrivateMessage( string sender, object message, string channelName ) { }
+        public void OnSubscribed( string[] channels, bool[] results ) { }
+        public void OnUnsubscribed( string[] channels ) { }
+        public void OnStatusUpdate( string user, int status, bool gotMessage, object message ) { }
+        public void OnUserSubscribed( string channel, string user ) { }
+        public void OnUserUnsubscribed( string channel, string user ) { }
+
+    }
+}

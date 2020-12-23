@@ -1,0 +1,459 @@
+spacehubconference
+
+
+Version 0.14 (2020-08-22 19:56:10)
+
+- Features
+  . Updated Photon Voice to 2.20.1
+  . Added button sounds to funnel and character customizer
+  . Load art packs from event data received from the server
+  . Customization menu for PC is now rendered by an orthographic camera
+  . textinput popup message
+  . report users
+  . show userreports in mod panel
+  . added OperationResponse extension to check responsecode and uri path
+  . check for unauthorized error when getting userlist in admin view
+  . ban users via admin popup ( and send kick signal)
+  . automatically load into correct scene when pressing play in editor in a conference scene
+  . admin features: using signal channel to teleport users to admin
+  . automatically load into correct scene when pressing play in editor in a conference scene
+  . admin features: using signal channel to teleport users to admin
+  . teleport to user via signal channel
+  . added blocking of users ( hides avatars and mutes voice )
+  . blocked users list in main menu to unblock users
+  . local avatar uses talking animation
+  . Added Spaces and Spaces Manager, which stream data and files from online database for exhibitor-booths etc.
+  . added &amp; implemented ambience sounds, object sounds, UI sounds
+  . funnel with graphics, audio and login
+  . started funnel at launch
+  . rotatable avatar in customization
+  . implemented anime eyes customization
+
+- Added functionality
+  . Removed Photon Unity Networking (PUN) files, since we are using Photon Realtime
+  . Implemented funnel for WebGL
+  . moved permision class to groupsmanager
+  . tweaked audiopage of funnel
+  . funnel tweaks
+  . funnel tweaks
+
+- Fixes
+  . Sometimes PC players would not join chatbubbles properly
+  . Custom font for chat to fix invisible text error
+  . report formating
+  . fixed reports list display
+  . blocking avatar creation on join
+  . nullref check permission loading from playerprefs
+  . music fadeout when joining expo &amp; palmleaf sound in customization room
+  . fixed layout for vr name selection
+  . fixed diabling mic in funnel
+
+Version 0.13 (2020-08-12 16:51:19)
+
+- Features
+  . Attached Groups chat to left VR hand
+  . Refactored groups a bit to better support VR (ongoing)
+  . added customproperties register function with automatic callback with initial values
+  . head attachment for default avatar
+  . added offsets to category for customization buttons
+  . minified groups window
+  . Updated Photon Voice to 2.19.1
+  . avatar lowerbody dynamics
+  . added moderation user popup
+  . added moderation user popup
+  . more userlist filters
+  . Added optional ability to store AppIds from Conference Server Settings in Version Control to allow for Unity Cloud Builds, for example
+  . Started Userlist for admin view
+  . started hidden signaling chat channel
+  . emotes in assetpacks
+  . pc avatar talk animation
+  . Join different events which can be setup in the online dashboard
+
+- Added functionality
+  . using new customization system for default avatars
+  . customization ui
+  . anime customization
+  . new anime eyes
+  . continued avatar customization
+  . migrated default avatar customization to new system
+  . replaced skinned mesh renderers of anim avatar with static segments
+
+- Fixes
+  . VR avatar not leaving chatbubble properly
+  . NullRef error spam in Stage
+  . Outline text in 8-Chatbubble prefab
+  . VR user telporting out of a chatbubble works again
+  . fixed device icons with callbacks
+  . fixed talking animation in new customization system
+  . nullref check mute icon
+  . frameguard to 40fps
+  . Chatbubble interaction in VR was buggy
+  . Display case disables teleport for VR player, leaving him stranded
+  . hand colors now same as skincolor
+  . added _MainTex to colorpicker shader (unused property)
+  . Multi event flow for quest
+  . setting correct color for colorbuttons when switching attachment items with different color counts
+  . Various errors catched via Unity Cloud Diagnostics
+  . Fixed various compiler warnings
+  . Several NullRefs in stage
+  . XRInteractionManager missing and throwing warnings in Third person mode
+  . avatar eye mapping
+  . Removed PUN server settings wizard popup, since it is not relevant to SpaceHub Conference
+
+Version 0.12 (2020-07-30 18:43:25)
+
+- Features
+  . Connection error for voice is now only displayed when there is an actual problem connecting to the server
+  . forceupdate local player position on chatmessage sent
+  . avatar customization animation on color confirm
+  . Tweaked performance settings for Oculus Quest to achieve 72 FPS
+  . started avatar animation system
+  . Moved com.unity.xr.interaction.toolkit from package to main source
+  . Moved com.valvesoftware.unity.openvr from package to main source
+  . Avatar customization is now split into multiple tabs
+  . Color selection wheel for all avatar customization options
+
+- Added functionality
+  . Icons for avatar customization categories
+  . Icons for avatar customization categories
+  . emote popup button symbol
+  . emote buttons text
+  . more avatar animations
+  . Various performance improvements for Oculus Quest
+  . private calls act as normal channels with maxSubscribers == 2
+  . avatar models
+
+- Fixes
+  . Gave every TextMeshPro component a separate material from TextMeshProUGUI to fix text rendering issues
+  . voice connection uses simpleSpeaker factory when not in a chatbubble. Makes voicechat for groups work across scenes
+  . Chat appId is now properly set through conference server settings
+  . Added 
+
+Version 0.11 (2020-07-23 13:03:39)
+
+- Features
+  . Open urls in new tab in WebGL client
+  . All AppId Settings are now in the Conference Server Settings object
+  . Added reset button for sandboxes
+  . Added board game piece sockets for easier placement
+  . show channel icons when call is active (for public channels only)continued private chat confirmation
+  . sandbox piece visuals
+  . SandboxObjects can now synchronize their state when a new player joins
+  . Sandbox objects can now register and send RPCs
+  . Sandbox objects reset their state when player leaves the sandbox
+  . Added sandbox sample: board game solitaire
+  . updated photonchat to new version ( includes channelproperties)
+  . added permissions: (un)-block users and channels
+  . Started Sandbox - A sandbox area can contain (physics) objects which synchronize their state between visitors
+  . showing confirmation popup when inviting to private or groupchat
+  . added private chat support
+  . Confirm dialog to leave chatbubble when leaving call
+
+- Added functionality
+  . refactored channel data
+  . started private chat confirmation
+  . Updated Photon Chat
+  . updated photon chat
+  . updated private chat flow
+  . Switched nav mesh to component system
+  . Pc users can now move inside a chatbubble
+  . generating deterministic voice channel name for private calls
+  . started voice calls for groups
+
+Version 0.10 (2020-07-15 18:32:17)
+
+- Features
+  . conference specific channel display
+  . hide chatlog when in public floor channel
+  . Receive isAdmin state from spacehub.world for local player on auth
+  . Hide developer settings tab when user is not an admin
+  . Update to Unity 2019.4.3f1
+  . Groups: minimize channel and userlist
+  . Groups: invite users to new channel from avatar info popup
+  . Global back button for navigation (displays, booths, cinema, bubbles)
+  . disable camera toggle via scene settings
+
+- Added functionality
+  . removed questions manager from stage ( replaced with groups)
+  . updated xr manager plugin to 3.2.13
+  . correct channel names in headline for expo floor / chatbubbles / invite-groups
+  . continued groups
+  . Cinema Entrance now in the back for better flow
+  . Updated Resolution and Customization ui
+  . Moved Chat connector to groups
+  . chatconnector using auth name format &quot;userId
+
+- Fixes
+  . Microphone permissions on mac are now requested properly
+  . Mac app is now notarized so the demo works better
+  . Audio error message on mac
+  . App connects to stage twice on join
+  . Groups: avoid multiple subscriptions to the same channel
+  . not reconnecting when switching rooms
+  . fixed stage camera
+
+Version 0.9 (2020-07-07 17:54:16)
+
+- Features
+  . started group chat
+  . added toggle for warnings as popups (debug panel). Disabled by default to avoid spam.
+  . Topdown camera zoom
+  . reset thirdperson camera angle when switching rooms
+  . added list of IChatClientListeners in ChatConnector to forward events to other systems (eg group chat)
+
+- Added functionality
+  . sending position update to old interrestgroup when leaving that group
+  . removed schedule signs inside cinema
+
+- Fixes
+  . various nullrefs in stage
+
+Version 0.8 (2020-07-02 19:13:39)
+
+- Features
+  . Cinema scene
+  . Zoomin to Cinema screen
+  . smooth local avatar y-Movement
+  . added custom cinemachine extension for zooming in when obstructed
+  . disable/enable chat via scene settings
+  . set text promt in chat input via scene settings
+  . Switched to Roboto Font
+  . Send app version to authentication to be able to reject logins from old versions
+  . baking nickname into questions for stage (can be toggled per room in scene settings)
+  . Added first and last name to profile popup
+  . Custom authentication via magic email login
+  . using cinemachine for 3rd person and top-down camera now
+  . avatar navigation via navmesh agent
+  . locking avatar rotation when viewing display
+  . static camera for third person stage
+  . move avatar and camera to frame display cases when clicked
+  . camera now dynamically zooms in when obstacles are in the way
+  . remote avatars avoid display cases the local user wants to see
+
+- Added functionality
+  . framing cinema screen using CinemachineTargetGroup to accomodate different aspect ratios
+  . camera tweaks
+  . Roboto font for customization scene
+  . brighter stage
+  . refactored avatar movement
+  . Added more display cases to showcase how a conference might show information
+  . Better timecode synchronization of Vimeo video player between clients
+
+- Fixes
+  . fixed nullref in interaction highlight when no renderers are set
+  . fixed hovereffect when distance is to great
+  . fixed chat popup nullref
+  . stopped receiving old chat messages for chatpopup
+  . replaced logo and gradients with newer versions
+  . fixed go to stage button in main menu
+  . reset camera position after teleport
+  . Avatars where no longer interactable
+  . disabled rotation for attendee in stage
+  . not zooming camera in for avatars anymore
+  . Removed AVPro sample videos
+  . Added WebGL support for Vimeo/AVPro integration
+  . Set default ViewMode to ThirdPerson so new users have an easier time testing in Unity
+  . Moved all dynamically loaded images to new spacehub.world domain so they also work in WebGL
+  . not clearing room name to join on connect in case of disconnect
+  . fixed teleport teleport issue in spaceship
+
+Version 0.7 (2020-06-24 15:43:31)
+
+- Features
+  . multiline chat popups
+  . Added Vimeo integration. (Vimeo Pro or Business account required)
+  . Added Cinema Island
+  . showing default slide on start of stage instead of empty screen
+  . Script name refactor from SpaceHub Expo to SpaceHub Conference
+  . Added confirm type popup messages
+  . Added framerate guard to automatically ask to lower quality settings if framerates are not high enough
+  . remote avatars now moving to portal they entered before being destroyed.
+  . remote avatars using navmesh pathing
+  . Added AVProVideo Package Trial for video demonstrations (needs license to be able to use it without watermark)
+  . Add reconnect/retry functionality when unable to connect to photon server
+  . show chatlog in chatbubbles
+  . New free-text name input for Keyboard systems
+  . Added basic login with username from conference backend
+  . Add social buttons to avatar info popup with data from backend profile
+  . Added SpaceHub Logo
+  . added second expo floor scene
+
+- Added functionality
+  . Basic video playback synching (wip)
+  . tweaked booth shapes and entrance lighting
+  . polished portal lighting
+  . polished booth entrances and booth shapes
+  . Connection overlay now shows more info on the connection status
+
+- Fixes
+  . fixed nullref in stage attendees count when failing to connect the first time
+  . not sending innitial position update when scenesettings have avatars disabled
+  . player orientation now correct after teleport (pc rig)
+  . fog for cubemap shader
+  . Added null guards for various NullRefs
+  . fixed joining room when first attempt failed
+  . fixed questions for stage
+  . Updated ingame video settings to match the startup resolution dialog
+  . don&#039;t receive old chat messages
+  . Fixed some NullRef errors
+  . Always apply target framerate 60 on standalone versions
+  . set lightmode of stages to non-directional
+
+Version 0.6 (2020-06-18 10:41:48)
+
+- Features
+  . Region switch in customization menu
+  . rotating photon and holocafe logos above booths
+  . Send error log to developer
+  . new expo layout and look
+  . hiding top of spaceship booth when inside with pc client.
+  . Better message sending algorithm to reduce messages/s
+  . ExpoSceneSettings now defines maximum area dimensions
+  . started holocafe booth
+  . Send ping to webserver every minute so the dashboard can properly show CCU activity
+  . Better resolution dialog
+  . started chat feature for stage
+
+- Added functionality
+  . tweaked sky cubemap to be less uniform
+  . landed spaceship booth, updated navmesh for pc movement
+
+- Fixes
+  . rebaked stage lightmaps
+  . loading lightprobes on scene load
+  . added missing image uri for holocafe booth
+  . photon logo normals and texture clamping
+  . Chatbubble text now has outline for improved readability
+  . Quality selection dialog shows selected setting
+  . Low quality now also locked to 60 fps
+  . Bots spawn in bubble
+  . sending chat messages via chat connection for chatstage
+  . Set CreateIfNotExists to tro for OpJoinOrCreateRoom to make WebHooks work
+  . fixed avatar comfortzone avoidance to work in 3rd persion as well
+  . stage display now generates mipmaps
+  . chatstage now hides speaker correctly after speaker left the stage
+
+Version 0.5 (2020-06-10 17:21:25)
+
+- Features
+  . seperate stage interfaces for xr and third person viewmodes
+  . New system message popups
+
+- Added functionality
+  . Show mute icon for everyone else when two players join a private call while in a chatbubble
+  . Show popup messages for errors/warnings and if partner hangs up private call
+  . RealtimeStage: Moved Speaker Customization and Slide to properties
+
+- Fixes
+  . Made chatbubble unwalkable for bots
+  . Error when joining chatbubble while in a private call
+  . No voice after leaving private calls in a chatbubble
+  . Error when quickly joining chatbubbles one after the other
+  . Error when calling the same avatar again after a private call
+  . Main menu caller list doesn&#039;t show proper name/company name
+  . Remote avatars on the floor or ceiling when in chatbubble
+  . show name and company in private call list
+  . logos no longer alpha overlays, caused either sorting issues or aliasing
+  . fixed speaker visibility in realtime stage on rejoin
+
+Version 0.4 (2020-06-09 16:37:45)
+
+- Features
+  . joining voice room when joining stage
+  . added ExpoSceneSettings object to control certain features per scene
+  . only create avatars when enabled in scene settings
+  . only enable teleportation when enabled in scene settings
+  . loading stages additivelly
+
+- Added functionality
+  . Leave private call when other person leaves
+  . Show mute icon in chatbubbles if player is not in voice chat
+  . Smooth switching from chatbubbles to private calls and back
+  . added realtime stage entrance to main expo room
+
+- Fixes
+  . Error on join voice room if already in room (now properly switches)
+  . remove stage callbacks on destroy to avoid nullrefs when rejoining
+  . removed randomized customization from avatar ( was affecting actual users as well)
+  . removed duplicate calls from list
+  . PC doesn&#039;t teleport to random position when clicking into sky anmore
+  . Delete incoming call request on accept
+  . Use global AppVersion string for Realtime, Voice and Chat
+  . fixed chat input anchors to scale with corner, moved input to the right instead to avoid overlapping
+  . fixed chat stage to work with new handler structure
+  . Version text on Android and WebGL
+
+Version 0.3 (2020-06-06 17:27:56)
+
+- Features
+  . Highlight target teleport position when using mouse controls
+  . Chatbubble for 8 Players
+  . started realtime stage
+  . Resolution UI on start of PC version
+  . Popup debug settings to make them always visible if wanted
+  . Topdown camera
+  . key &quot;C&quot; now switches between cameras
+  . chatpopup is always visible ( just lower opacity ) and activates on select for when pressing enter
+  . mouse controlls ui at the bottom of the screen
+  . Added Unity Recorder to capture footage
+  . Added ui for input tutorial
+
+- Added functionality
+  . Added more voice debug values to debug panel
+  . Added voice tuning sliders to debug panel
+  . Show connecting overlay when connecting to Photon server
+  . Expo position now includes Y axis
+  . Debug panel shows more voice stats
+  . Switching between manually controlled camera and followcamera
+  . cameras snap to correct position when enabled
+  . tweaked third person camera
+  . split camera controlls from pcrig into third person camera
+  . Randomized Lowfrequency position by 4x4 meters
+  . Bots now have random customization
+  . Better build pipeline
+
+- Fixes
+  . Remote avatars set at proper height
+  . Expo position now correctly compresses Vector3
+  . Stage avatar height
+  . Realtime stage OnEvent callback registered
+  . Local chat popup no longer visible
+  . Debug settings popup moved to top right
+  . third person camera now rotates around head
+  . removed booth displays showing possibly outdated information
+  . reverted buildpath
+  . Testplayers now join the correct room when in booth
+  . don&#039;t listen for debug inputs when chatwindow is active
+  . send button in chatpopup now sends message
+  . generating mipmaps for dynamically loaded booth images
+  . moved quit button to the right hand side
+  . Private calls
+  . Privat calls not possible because all players are always NotAvailable
+
+Version 0.2 (2020-06-02 18:45:35)
+
+- Added functionality
+  . High frequency position/rotation also sends Y coordinate
+
+- Fixes
+  . added vertexlighting for low quality settings
+  . Head height normalization with different terrain heights
+  . Assigned unique interest groups to Booth bubbles
+  . Create avatar when Photon Player already exists
+  . Error on duplicate avatar creation
+  . Chatbubble more visible from the inside
+  . Photon voice not working
+  . Stage threw a bunch of audio listener errors
+
+Version 0.1 (2020-05-29 15:13:32)
+
+- Features
+  . Initial Version
+  . Includes binary for PC (third person view)
+  . Includes binary for Oculus Quest
+  . Includes binary for WebGL (third person view)
+  . This app is a demonstration how to utilise various Photon Products to create a digital expo
+  . Example implementation for expo scenario hosting many visitors with Chat functionality (utilising Photon Realtime)
+  . Example implementation for speaker/audience scenarios including slideshow (utilising Photon Chat)
+  . Example implementation for group voice chats and private voice chats (utilising Photon Voice)
+
